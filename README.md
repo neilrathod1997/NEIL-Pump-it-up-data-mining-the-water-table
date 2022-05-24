@@ -6,7 +6,7 @@ Based on data published by the Tanzanian Ministry of Water and Taarifa, Our obje
 
 Drivendata has begun a competition 'Pump It Up' to point out this problem. With the predictive model, people can understand which water points are functional, non-functional, and functional but needs to be repaired. This model can help the Tanzanian government to find likely maintenance needy wells or give useful information for future wells.Click [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) to visit the competition page.
 
-This repo contains my EDA, data cleaning, feature engineering, modelling work and deployment work for this DrivenData competition, where I currently hold a top 4% score (0.8234). You can also find some additional experiments I performed for a set of [Medium articles]() that I wrote about this competition.
+This repo contains my EDA, data cleaning, feature engineering, modelling work and deployment work for this DrivenData competition, where I currently hold a top 4% score (0.8234). You can also find some additional experiments I performed for a set of [Medium articles](https://medium.com/@neilnaik/pump-it-up-data-mining-the-water-table-f1a10d17d18e) that I wrote about this competition.
 
 <h2>Competition files</h2>
 
