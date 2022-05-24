@@ -1,0 +1,2192 @@
+region,lga,ward,gps_height_imputed_ward
+Arusha,Arusha Rural,Bangata,1619.1515151515152
+Arusha,Arusha Rural,Bwawani,964.5135135135135
+Arusha,Arusha Rural,Ilkiding'a,1669.5
+Arusha,Arusha Rural,Kimnyaki,1559.0379746835442
+Arusha,Arusha Rural,Kiranyi,1388.104347826087
+Arusha,Arusha Rural,Kisongo,1368.2121212121212
+Arusha,Arusha Rural,Mateves,1358.6818181818182
+Arusha,Arusha Rural,Mlangarini,1152.891304347826
+Arusha,Arusha Rural,Moivo,1463.9545454545455
+Arusha,Arusha Rural,Moshono,1269.2272727272727
+Arusha,Arusha Rural,Murieti,1502.0689655172414
+Arusha,Arusha Rural,Musa,1588.0689655172414
+Arusha,Arusha Rural,Mwandeti,1713.9411764705883
+Arusha,Arusha Rural,Nduruma,986.3073170731707
+Arusha,Arusha Rural,Oldonyosambu,1784.5324675324675
+Arusha,Arusha Rural,Oljoro,1014.875
+Arusha,Arusha Rural,Olkokola,1825.9924812030076
+Arusha,Arusha Rural,Oltroto,1590.5333333333333
+Arusha,Arusha Rural,Oltrumet,1540.4615384615386
+Arusha,Arusha Rural,Sokoni II,1525.857142857143
+Arusha,Arusha Urban,Baraa,1421.5
+Arusha,Arusha Urban,Daraja Mbili,1342.0
+Arusha,Arusha Urban,Elerai,1387.5454545454545
+Arusha,Arusha Urban,Engutoto,1309.0
+Arusha,Arusha Urban,Kaloleni,1424.2
+Arusha,Arusha Urban,Kimandolu,1392.0
+Arusha,Arusha Urban,Lemara,1271.25
+Arusha,Arusha Urban,Levolosi,1411.0
+Arusha,Arusha Urban,Ngarenaro,1388.0
+Arusha,Arusha Urban,Olorien,1351.75
+Arusha,Arusha Urban,Sekei,1420.3333333333333
+Arusha,Arusha Urban,Sokon I,1318.0
+Arusha,Arusha Urban,Sombetini,1350.5
+Arusha,Arusha Urban,Terrat,1214.75
+Arusha,Arusha Urban,Themi,1325.0
+Arusha,Arusha Urban,Unga Ltd,1366.0
+Arusha,Karatu,Barray,1084.75
+Arusha,Karatu,Daa,1474.4705882352941
+Arusha,Karatu,Endabash,1427.95
+Arusha,Karatu,Kansay,1684.0
+Arusha,Karatu,Karatu,1503.15
+Arusha,Karatu,Mang'ola,1038.9565217391305
+Arusha,Karatu,Mbulumbulu,1662.8255813953488
+Arusha,Karatu,Oldeani,1481.75
+Arusha,Karatu,Qurus,1499.3492063492063
+Arusha,Karatu,Rhotia,1561.52
+Arusha,Longido,Engarenaibor,1673.6764705882354
+Arusha,Longido,Gelai Lumbwa,1244.142857142857
+Arusha,Longido,Gelai Meirugoi,1098.111111111111
+Arusha,Longido,Ketumbeine,1526.5294117647059
+Arusha,Longido,Longido,1358.8823529411766
+Arusha,Longido,Matare,1572.5714285714287
+Arusha,Longido,Namanga,1324.4375
+Arusha,Longido,Olmolog,1673.030303030303
+Arusha,Longido,Tingatinga,1177.5714285714287
+Arusha,Meru,Akheri,1369.9555555555555
+Arusha,Meru,Kikatiti,1182.7910447761194
+Arusha,Meru,Kikwe,1046.904761904762
+Arusha,Meru,King'ori,1092.375
+Arusha,Meru,Leguruki,1411.2164948453608
+Arusha,Meru,Maji ya Chai,1248.5157894736842
+Arusha,Meru,Makiba,916.5714285714286
+Arusha,Meru,Maroroni,998.0
+Arusha,Meru,Mbuguni,922.8095238095239
+Arusha,Meru,Ngarenanyuki,1492.4825581395348
+Arusha,Meru,Nkoanrua,1323.162162162162
+Arusha,Meru,Nkoaranga,1316.0217391304348
+Arusha,Meru,Nkoarisambu,1500.388888888889
+Arusha,Meru,Poli,1345.4285714285713
+Arusha,Meru,Singisi,1361.2222222222222
+Arusha,Meru,Songoro,1587.3529411764705
+Arusha,Meru,USA River,1158.5555555555557
+Arusha,Monduli,Engaruka,861.1428571428571
+Arusha,Monduli,Engutoto,1566.1666666666667
+Arusha,Monduli,Esilalei,979.1111111111111
+Arusha,Monduli,Lolkisale,1374.1
+Arusha,Monduli,Makuyuni,1078.6904761904761
+Arusha,Monduli,Moita,1242.3333333333333
+Arusha,Monduli,Monduli Juu,1609.25
+Arusha,Monduli,Selela,1036.2727272727273
+Arusha,Monduli,Sepeko,1376.1875
+Arusha,Ngorongoro,Arash,1891.25
+Arusha,Ngorongoro,Digodigo,1297.75
+Arusha,Ngorongoro,Endulen,1623.7916666666667
+Arusha,Ngorongoro,Kakesio,1641.0
+Arusha,Ngorongoro,Malambo,1274.3636363636363
+Arusha,Ngorongoro,Nainokanoka,2540.590909090909
+Arusha,Ngorongoro,Naiyobi,2316.25
+Arusha,Ngorongoro,Ngorongoro,2358.3
+Arusha,Ngorongoro,Olbalbal,1441.9166666666667
+Arusha,Ngorongoro,Oldonyo Sambu,1197.0
+Arusha,Ngorongoro,Olgosorok,2102.6071428571427
+Arusha,Ngorongoro,Pinyinyi,644.1
+Arusha,Ngorongoro,Sale,1244.2857142857142
+Arusha,Ngorongoro,Soit Sambu,1961.8636363636363
+Dar es Salaam,Ilala,Chanika,66.66883116883118
+Dar es Salaam,Ilala,Kinyerezi,62.88235294117647
+Dar es Salaam,Ilala,Kitunda,18.4559585492228
+Dar es Salaam,Ilala,Msongola,25.775862068965516
+Dar es Salaam,Ilala,Pugu,65.15068493150685
+Dar es Salaam,Kinondoni,Bunju,46.0
+Dar es Salaam,Kinondoni,Goba,82.48484848484848
+Dar es Salaam,Kinondoni,Kibamba,127.55555555555556
+Dar es Salaam,Kinondoni,Kunduchi,58.666666666666664
+Dar es Salaam,Kinondoni,Mbezi,75.5
+Dar es Salaam,Kinondoni,Mbweni,-14.666666666666666
+Dar es Salaam,Temeke,Chamazi,19.0
+Dar es Salaam,Temeke,Kibada,7.166666666666667
+Dar es Salaam,Temeke,Kimbiji,-11.8
+Dar es Salaam,Temeke,Kisarawe II,23.61764705882353
+Dar es Salaam,Temeke,Mji Mwema,-27.76923076923077
+Dar es Salaam,Temeke,Pemba Mnazi,-16.782608695652176
+Dar es Salaam,Temeke,Somangira,-22.75
+Dar es Salaam,Temeke,Vijibweni,-20.125
+Dodoma,Bahi,Babayu,
+Dodoma,Bahi,Bahi,
+Dodoma,Bahi,Chali,
+Dodoma,Bahi,Chibelela,
+Dodoma,Bahi,Chikola,
+Dodoma,Bahi,Chipanga,
+Dodoma,Bahi,Ibihwa,
+Dodoma,Bahi,Ibugule,
+Dodoma,Bahi,Ilindi,
+Dodoma,Bahi,Kigwe,
+Dodoma,Bahi,Lamaiti,
+Dodoma,Bahi,Makanda,
+Dodoma,Bahi,Mpalanga,
+Dodoma,Bahi,Mpamantwa,
+Dodoma,Bahi,Msisi,
+Dodoma,Bahi,Mtitaa,
+Dodoma,Bahi,Mundemu,
+Dodoma,Bahi,Mwitikira,
+Dodoma,Bahi,Nondwa,
+Dodoma,Bahi,Zanka,
+Dodoma,Chamwino,Chilionwa,
+Dodoma,Chamwino,Chinugulu,
+Dodoma,Chamwino,Dabalo,
+Dodoma,Chamwino,Fufu,
+Dodoma,Chamwino,Handali,
+Dodoma,Chamwino,Haneti,
+Dodoma,Chamwino,Huzi,
+Dodoma,Chamwino,Idifu,
+Dodoma,Chamwino,Igandu,
+Dodoma,Chamwino,Ikowa,
+Dodoma,Chamwino,Iringa Mvumi,
+Dodoma,Chamwino,Itiso,
+Dodoma,Chamwino,Majeleko,
+Dodoma,Chamwino,Makang'wa,
+Dodoma,Chamwino,Manchali,
+Dodoma,Chamwino,Manda,
+Dodoma,Chamwino,Manzase,
+Dodoma,Chamwino,Membe,
+Dodoma,Chamwino,Mlowa Bwawani,
+Dodoma,Chamwino,Mphwayungu,
+Dodoma,Chamwino,Msamalo,
+Dodoma,Chamwino,Muungano,
+Dodoma,Chamwino,Mvumi Makulu,
+Dodoma,Chamwino,Mvumi Mission,
+Dodoma,Chamwino,Nghambaku,
+Dodoma,Chamwino,Segala,
+Dodoma,Dodoma Urban,Chihanga,
+Dodoma,Dodoma Urban,Hombolo,
+Dodoma,Dodoma Urban,Ipala,
+Dodoma,Dodoma Urban,Kikombo,
+Dodoma,Dodoma Urban,Makutopora,
+Dodoma,Dodoma Urban,Mbabala,
+Dodoma,Dodoma Urban,Mbalawala,
+Dodoma,Dodoma Urban,Mkonze,
+Dodoma,Dodoma Urban,Mpunguzi,
+Dodoma,Dodoma Urban,Msalato,
+Dodoma,Dodoma Urban,Mtumba,
+Dodoma,Dodoma Urban,Nala,
+Dodoma,Dodoma Urban,Ngh'ong'ona,
+Dodoma,Dodoma Urban,Nzuguni,
+Dodoma,Dodoma Urban,Tambuka Reli,
+Dodoma,Dodoma Urban,Zuzu,
+Dodoma,Kondoa,Bereko,
+Dodoma,Kondoa,Bumbuta,
+Dodoma,Kondoa,Busi,
+Dodoma,Kondoa,Chandama,
+Dodoma,Kondoa,Changaa,
+Dodoma,Kondoa,Chemba,
+Dodoma,Kondoa,Dalai,
+Dodoma,Kondoa,Farkwa,
+Dodoma,Kondoa,Goima,
+Dodoma,Kondoa,Gwandi,
+Dodoma,Kondoa,Haubi,
+Dodoma,Kondoa,Jangalo,
+Dodoma,Kondoa,Kalamba,
+Dodoma,Kondoa,Kikore,
+Dodoma,Kondoa,Kingale,
+Dodoma,Kondoa,Kisese,
+Dodoma,Kondoa,Kolo,
+Dodoma,Kondoa,Kwadelo,
+Dodoma,Kondoa,Kwamtoro,
+Dodoma,Kondoa,Lalta,
+Dodoma,Kondoa,Makorongo,
+Dodoma,Kondoa,Masange,
+Dodoma,Kondoa,Mnenia,
+Dodoma,Kondoa,Mondo,
+Dodoma,Kondoa,Mpendo,
+Dodoma,Kondoa,Mrijo,
+Dodoma,Kondoa,Ovada,
+Dodoma,Kondoa,Pahi,
+Dodoma,Kondoa,Paranga,
+Dodoma,Kondoa,Sanzawa,
+Dodoma,Kondoa,Soera,
+Dodoma,Kondoa,Suruke,
+Dodoma,Kondoa,Thawi,
+Dodoma,Kongwa,Chamkoroma,
+Dodoma,Kongwa,Hogoro,
+Dodoma,Kongwa,Iduo,
+Dodoma,Kongwa,Kibaigwa,
+Dodoma,Kongwa,Kongwa Urban,
+Dodoma,Kongwa,Mkoka,
+Dodoma,Kongwa,Mlali,
+Dodoma,Kongwa,Mtanana,
+Dodoma,Kongwa,Njoge,
+Dodoma,Kongwa,Pandambili,
+Dodoma,Kongwa,Sagara,
+Dodoma,Kongwa,Sejeli,
+Dodoma,Kongwa,Ugogoni,
+Dodoma,Kongwa,Zoissa,
+Dodoma,Mpwapwa,Berege,
+Dodoma,Mpwapwa,Chunyu,
+Dodoma,Mpwapwa,Gode Gode,
+Dodoma,Mpwapwa,Ipera,
+Dodoma,Mpwapwa,Kibakwe,
+Dodoma,Mpwapwa,Kimagai,
+Dodoma,Mpwapwa,Luhundwa,
+Dodoma,Mpwapwa,Lumuma,
+Dodoma,Mpwapwa,Massa,
+Dodoma,Mpwapwa,Matomondo,
+Dodoma,Mpwapwa,Mazae,
+Dodoma,Mpwapwa,Mbuga,
+Dodoma,Mpwapwa,Mima,
+Dodoma,Mpwapwa,Mlunduzi,
+Dodoma,Mpwapwa,Rudi,
+Dodoma,Mpwapwa,Vinghawe,
+Dodoma,Mpwapwa,Wotta,
+Iringa,Iringa Rural,Idodi,927.3555555555556
+Iringa,Iringa Rural,Ifunda,1734.8260869565217
+Iringa,Iringa Rural,Ilolo Mpya,739.7428571428571
+Iringa,Iringa Rural,Itunundu,711.9333333333333
+Iringa,Iringa Rural,Izazi,691.9615384615385
+Iringa,Iringa Rural,Kalenga,1493.7826086956522
+Iringa,Iringa Rural,Kihorogota,1217.642857142857
+Iringa,Iringa Rural,Kiwere,1381.774193548387
+Iringa,Iringa Rural,Lumuli,1748.6
+Iringa,Iringa Rural,Maboga,1707.88
+Iringa,Iringa Rural,Magulilwa,1632.3225806451612
+Iringa,Iringa Rural,Mahuninga,1020.1379310344828
+Iringa,Iringa Rural,Malenga Makali,994.275
+Iringa,Iringa Rural,Mgama,1701.375
+Iringa,Iringa Rural,Mlowa,891.0
+Iringa,Iringa Rural,Mseke,1635.032258064516
+Iringa,Iringa Rural,Nduli,1305.142857142857
+Iringa,Iringa Rural,Nzihi,1406.576923076923
+Iringa,Iringa Rural,Ulanda,1468.7575757575758
+Iringa,Iringa Rural,Wasa,1691.5
+Iringa,Kilolo,Boma la ng'ombe,1917.0675675675675
+Iringa,Kilolo,Dabaga,1905.4444444444443
+Iringa,Kilolo,Idete,1659.5714285714287
+Iringa,Kilolo,Ilula,1355.5
+Iringa,Kilolo,Image,1424.0535714285713
+Iringa,Kilolo,Irole,1475.7169811320755
+Iringa,Kilolo,Mahenge,571.448275862069
+Iringa,Kilolo,Mtitu,1735.4285714285713
+Iringa,Kilolo,Udekwa,1334.842105263158
+Iringa,Kilolo,Uhambingeto,1383.3076923076924
+Iringa,Kilolo,Ukumbi,1824.955223880597
+Iringa,Kilolo,Ukwega,1487.5384615384614
+Iringa,Ludewa,Ibumi,1110.111111111111
+Iringa,Ludewa,Luana,1361.9705882352941
+Iringa,Ludewa,Ludende,1667.0625
+Iringa,Ludewa,Ludewa,1376.923076923077
+Iringa,Ludewa,Lugarawa,1472.095238095238
+Iringa,Ludewa,Luilo,809.3333333333334
+Iringa,Ludewa,Lupanga,1717.4545454545455
+Iringa,Ludewa,Madilu,1973.5
+Iringa,Ludewa,Madope,2076.4166666666665
+Iringa,Ludewa,Manda,485.5
+Iringa,Ludewa,Masasi,704.6666666666666
+Iringa,Ludewa,Mavanga,1099.439024390244
+Iringa,Ludewa,Mawengi,1690.877192982456
+Iringa,Ludewa,Mlangali,1759.49
+Iringa,Ludewa,Mundindi,1429.9722222222222
+Iringa,Ludewa,Nkomang'ombe,1124.7692307692307
+Iringa,Makete,Bulongwa,2033.1176470588234
+Iringa,Makete,Ikuwo,2172.1111111111113
+Iringa,Makete,Iniho,2145.24
+Iringa,Makete,Ipelele,2354.5384615384614
+Iringa,Makete,Ipepo,1808.1162790697674
+Iringa,Makete,Iwawa,2252.5185185185187
+Iringa,Makete,Kipagalo,2089.6521739130435
+Iringa,Makete,Kitulo,2409.185185185185
+Iringa,Makete,Lupalilo,2051.2982456140353
+Iringa,Makete,Lupila,1853.445945945946
+Iringa,Makete,Mang'oto,2330.7704918032787
+Iringa,Makete,Matamba,2110.2
+Iringa,Makete,Mfumbi,1069.8
+Iringa,Makete,Mlondwe,2131.9
+Iringa,Makete,Ukwama,2030.3714285714286
+Iringa,Mufindi,Bumilayinga,1866.3793103448277
+Iringa,Mufindi,Idunda,1396.875
+Iringa,Mufindi,Igombavanu,1660.8823529411766
+Iringa,Mufindi,Igowole,1886.9761904761904
+Iringa,Mufindi,Ihalimba,1877.107142857143
+Iringa,Mufindi,Ihowanza,1381.7692307692307
+Iringa,Mufindi,Ikweha,1577.0
+Iringa,Mufindi,Isalavanu,1713.6666666666667
+Iringa,Mufindi,Itandula,1636.2
+Iringa,Mufindi,Kasanga,1896.75
+Iringa,Mufindi,Kibengu,1918.2916666666667
+Iringa,Mufindi,Kiyowela,1286.5
+Iringa,Mufindi,Luhunga,1921.76
+Iringa,Mufindi,Mafinga,1882.16
+Iringa,Mufindi,Malangali,1392.65
+Iringa,Mufindi,Mbalamaziwa,1673.54
+Iringa,Mufindi,Mninga,1899.0
+Iringa,Mufindi,Mtambula,1699.96
+Iringa,Mufindi,Mtwango,1978.0
+Iringa,Mufindi,Nyololo,1728.4918032786886
+Iringa,Mufindi,Rungemba,1786.0333333333333
+Iringa,Mufindi,Sadani,1518.6153846153845
+Iringa,Njombe,Idamba,1596.423076923077
+Iringa,Njombe,Igongolo,1689.984496124031
+Iringa,Njombe,Igosi,2112.7133550488597
+Iringa,Njombe,Ikondo,1239.391304347826
+Iringa,Njombe,Ikuka,1660.123076923077
+Iringa,Njombe,Ilembula,1477.357142857143
+Iringa,Njombe,Imalinyi,1904.218253968254
+Iringa,Njombe,Iwungilo,1856.5714285714287
+Iringa,Njombe,Kidegembye,1672.2745098039215
+Iringa,Njombe,Kifanya,1666.5568181818182
+Iringa,Njombe,Luduga,1489.4107142857142
+Iringa,Njombe,Lupembe,1580.987951807229
+Iringa,Njombe,Luponde,1938.5675675675675
+Iringa,Njombe,Mahongole,1540.061403508772
+Iringa,Njombe,Makambako,1602.047619047619
+Iringa,Njombe,Matola,2108.6275862068965
+Iringa,Njombe,Mdandu,1797.6060606060605
+Iringa,Njombe,Mtwango,1728.3066666666666
+Iringa,Njombe,Njombe Urban,1967.1666666666667
+Iringa,Njombe,Saja,1384.0
+Iringa,Njombe,Usuka,1589.374331550802
+Iringa,Njombe,Uwemba,2039.7977528089887
+Iringa,Njombe,Wangama,2111.9791666666665
+Iringa,Njombe,Wanging'ombe,1376.611510791367
+Iringa,Njombe,Yakobi,1690.6206896551723
+Kagera,Biharamulo,Biharamulo Urban,
+Kagera,Biharamulo,Kalenge,
+Kagera,Biharamulo,Lusahunga,
+Kagera,Biharamulo,Nyabusozi,
+Kagera,Biharamulo,Nyakahura,
+Kagera,Biharamulo,Nyamigogo,
+Kagera,Biharamulo,Nyarubungo,
+Kagera,Biharamulo,Runazi,
+Kagera,Bukoba Rural,Buhendangabo,
+Kagera,Bukoba Rural,Bujugo,
+Kagera,Bukoba Rural,Buterankuzi,
+Kagera,Bukoba Rural,Ibwera,
+Kagera,Bukoba Rural,Izimbya,
+Kagera,Bukoba Rural,Kaagya,
+Kagera,Bukoba Rural,Kabaragaine,
+Kagera,Bukoba Rural,Kaibanja,
+Kagera,Bukoba Rural,Kanyangereko,
+Kagera,Bukoba Rural,Kasharu,
+Kagera,Bukoba Rural,Katerero,
+Kagera,Bukoba Rural,Katoma,
+Kagera,Bukoba Rural,Katoro,
+Kagera,Bukoba Rural,Kibirizi,
+Kagera,Bukoba Rural,Kikomero,
+Kagera,Bukoba Rural,Kishanje,
+Kagera,Bukoba Rural,Kyamuraile,
+Kagera,Bukoba Rural,Maruku,
+Kagera,Bukoba Rural,Mikoni,
+Kagera,Bukoba Rural,Nyakato,
+Kagera,Bukoba Rural,Nyakibimbili,
+Kagera,Bukoba Rural,Rubafu,
+Kagera,Bukoba Rural,Rubale,
+Kagera,Bukoba Rural,Ruhunga,
+Kagera,Bukoba Urban,Bukembe,
+Kagera,Bukoba Urban,Ijunganyondo,
+Kagera,Bukoba Urban,Kagondo,
+Kagera,Bukoba Urban,Kahororo,
+Kagera,Bukoba Urban,Kibeta,
+Kagera,Bukoba Urban,Kitendaguru,
+Kagera,Bukoba Urban,Nishambya,
+Kagera,Bukoba Urban,Nyanga,
+Kagera,Chato,Bukome,
+Kagera,Chato,Buseresere,
+Kagera,Chato,Buziku,
+Kagera,Chato,Bwanga,
+Kagera,Chato,Bwera,
+Kagera,Chato,Chato,
+Kagera,Chato,Ichwankima,
+Kagera,Chato,Ilemela,
+Kagera,Chato,Kachwamba,
+Kagera,Chato,Katende,
+Kagera,Chato,Kigongo,
+Kagera,Chato,Makurugusi,
+Kagera,Chato,Muganza,
+Kagera,Chato,Nyamirembe,
+Kagera,Karagwe,Bugene,
+Kagera,Karagwe,Bugomora,
+Kagera,Karagwe,Bweranyange,
+Kagera,Karagwe,Igurwa,
+Kagera,Karagwe,Ihanda,
+Kagera,Karagwe,Ihembe,
+Kagera,Karagwe,Isingiro,
+Kagera,Karagwe,Kaisho,
+Kagera,Karagwe,Kamuli,
+Kagera,Karagwe,Kayanga,
+Kagera,Karagwe,Kibingo,
+Kagera,Karagwe,Kibondo,
+Kagera,Karagwe,Kihanga,
+Kagera,Karagwe,Kimuli,
+Kagera,Karagwe,Kiruruma,
+Kagera,Karagwe,Kituntu,
+Kagera,Karagwe,Kyerwa,
+Kagera,Karagwe,Mabira,
+Kagera,Karagwe,Murongo,
+Kagera,Karagwe,Ndama,
+Kagera,Karagwe,Nkwenda,
+Kagera,Karagwe,Nyabiyonza,
+Kagera,Karagwe,Nyaishozi,
+Kagera,Karagwe,Nyakahanga,
+Kagera,Karagwe,Nyakakika,
+Kagera,Karagwe,Nyakasimbi,
+Kagera,Karagwe,Rugu,
+Kagera,Karagwe,Rwabere,
+Kagera,Misenyi,Bugandika,
+Kagera,Misenyi,Bugorora,
+Kagera,Misenyi,Buyango,
+Kagera,Misenyi,Bwanjai,
+Kagera,Misenyi,Gera,
+Kagera,Misenyi,Ishozi,
+Kagera,Misenyi,Ishunju,
+Kagera,Misenyi,Kakunyu,
+Kagera,Misenyi,Kanyigo,
+Kagera,Misenyi,Kashenye,
+Kagera,Misenyi,Kassambya,
+Kagera,Misenyi,Kilimilire,
+Kagera,Misenyi,Kitobo,
+Kagera,Misenyi,Kyaka,
+Kagera,Misenyi,Minziro,
+Kagera,Misenyi,Nsunga,
+Kagera,Misenyi,Ruzinga,
+Kagera,Muleba,Biirabo,
+Kagera,Muleba,Buganguzi,
+Kagera,Muleba,Bulyakashaju,
+Kagera,Muleba,Bureza,
+Kagera,Muleba,Burungura,
+Kagera,Muleba,Ijumbi,
+Kagera,Muleba,Ikondo,
+Kagera,Muleba,Izigo,
+Kagera,Muleba,Kagoma,
+Kagera,Muleba,Kamachumu,
+Kagera,Muleba,Karambi,
+Kagera,Muleba,Kasharunga,
+Kagera,Muleba,Kashasha,
+Kagera,Muleba,Kibanga,
+Kagera,Muleba,Kibirizi,
+Kagera,Muleba,Kimwani,
+Kagera,Muleba,Kishanda,
+Kagera,Muleba,Kyebitembe,
+Kagera,Muleba,Magata/Karutanga,
+Kagera,Muleba,Manyondwe,
+Kagera,Muleba,Mubunda,
+Kagera,Muleba,Muhutwe,
+Kagera,Muleba,Muleba,
+Kagera,Muleba,Ngenge,
+Kagera,Muleba,Nshamba,
+Kagera,Muleba,Ruhanga,
+Kagera,Muleba,Rushwa,
+Kagera,Ngara,Bugarama,
+Kagera,Ngara,Bukiriro,
+Kagera,Ngara,Kabanga,
+Kagera,Ngara,Kanazi,
+Kagera,Ngara,Keza,
+Kagera,Ngara,Kibimba,
+Kagera,Ngara,Kirushya,
+Kagera,Ngara,Mabawe,
+Kagera,Ngara,Muganza,
+Kagera,Ngara,Mugoma,
+Kagera,Ngara,Murusagamba,
+Kagera,Ngara,Ngara Urban,
+Kagera,Ngara,Ntobeye,
+Kagera,Ngara,Nyakisasa,
+Kagera,Ngara,Nyamiyaga,
+Kagera,Ngara,Rulenge,
+Kagera,Ngara,Rusumo,
+Kigoma,Kasulu,Buhigwe,1332.6363636363637
+Kigoma,Kasulu,Buhoro,1377.6315789473683
+Kigoma,Kasulu,Heru- Ushingo,1265.7857142857142
+Kigoma,Kasulu,Janda,1341.171875
+Kigoma,Kasulu,Kagera Nkanda,1113.2307692307693
+Kigoma,Kasulu,Kigondo,1282.0
+Kigoma,Kasulu,Kilelema,1244.0
+Kigoma,Kasulu,Kitagata,1223.888888888889
+Kigoma,Kasulu,Kitanga,1211.6
+Kigoma,Kasulu,Msambara,1593.35
+Kigoma,Kasulu,Muhinda,1613.698795180723
+Kigoma,Kasulu,Muhunga,1591.525
+Kigoma,Kasulu,Munyegera,1360.6781609195402
+Kigoma,Kasulu,Munzenze,1072.7209302325582
+Kigoma,Kasulu,Murufiti,1222.406976744186
+Kigoma,Kasulu,Muyama,1269.8
+Kigoma,Kasulu,Muzye,1338.952380952381
+Kigoma,Kasulu,Nyakitonto,1330.84
+Kigoma,Kasulu,Nyamidaho,1214.111111111111
+Kigoma,Kasulu,Nyamnyusi,1476.5
+Kigoma,Kasulu,Ruhita,1256.945945945946
+Kigoma,Kasulu,Rungwe Mpya,1225.6363636363637
+Kigoma,Kasulu,Rusaba,1516.6666666666667
+Kigoma,Kasulu,Rusesa,1239.2857142857142
+Kigoma,Kasulu,Titye,1154.695652173913
+Kigoma,Kibondo,Bunyambo,1333.138888888889
+Kigoma,Kibondo,Busagara,1346.4561403508771
+Kigoma,Kibondo,Gwanumpu,1353.4705882352941
+Kigoma,Kibondo,Itaba,1321.591836734694
+Kigoma,Kibondo,Kakonko,1258.6
+Kigoma,Kibondo,Kasanda,1324.8666666666666
+Kigoma,Kibondo,Kasuga,1292.5714285714287
+Kigoma,Kibondo,Kazazi,1268.1842105263158
+Kigoma,Kibondo,Kibondo Urban,1439.409090909091
+Kigoma,Kibondo,Kitahana,1419.8837209302326
+Kigoma,Kibondo,Kumsenga,1243.2285714285715
+Kigoma,Kibondo,Mabamba,1257.9298245614036
+Kigoma,Kibondo,Misezero,1391.878787878788
+Kigoma,Kibondo,Mugunzu,1288.09375
+Kigoma,Kibondo,Muhange,1406.3076923076924
+Kigoma,Kibondo,Murungu,1305.607142857143
+Kigoma,Kibondo,Nyabibuye,1396.3
+Kigoma,Kibondo,Nyamtukuza,1365.7714285714285
+Kigoma,Kibondo,Rugenge,1350.8
+Kigoma,Kibondo,Rugongowe,1312.623188405797
+Kigoma,Kigoma Rural,Bitale,1051.4814814814815
+Kigoma,Kigoma Rural,Ilagala,855.3333333333334
+Kigoma,Kigoma Rural,Kagongo,944.8938053097345
+Kigoma,Kigoma Rural,Kalinzi,1490.8382352941176
+Kigoma,Kigoma Rural,Kandaga,1076.063829787234
+Kigoma,Kigoma Rural,Mahembe,990.019801980198
+Kigoma,Kigoma Rural,Matendo,1023.6117647058824
+Kigoma,Kigoma Rural,Mganza,1101.0
+Kigoma,Kigoma Rural,Mkigo,1586.1636363636364
+Kigoma,Kigoma Rural,Mngonya,824.1851851851852
+Kigoma,Kigoma Rural,Mtego wa Noti,1089.0555555555557
+Kigoma,Kigoma Rural,Mwamgongo,1059.452380952381
+Kigoma,Kigoma Rural,Mwandiga,890.0487804878048
+Kigoma,Kigoma Rural,Nguruka,1072.45
+Kigoma,Kigoma Rural,Simbo,824.3809523809524
+Kigoma,Kigoma Rural,Sunuka,784.8125
+Kigoma,Kigoma Rural,Uvinza,1111.341463414634
+Kigoma,Kigoma Urban,Bangwe,821.2222222222222
+Kigoma,Kigoma Urban,Buhanda businde,829.8181818181819
+Kigoma,Kigoma Urban,Gungu,818.875
+Kigoma,Kigoma Urban,Kasimbu,823.0
+Kigoma,Kigoma Urban,Kasingirima,814.375
+Kigoma,Kigoma Urban,Kitongoni,827.4
+Kigoma,Kigoma Urban,Machinjioni,818.0
+Kigoma,Kigoma Urban,Majengo,823.6666666666666
+Kigoma,Kigoma Urban,Mwanga Kaskazini,864.0
+Kigoma,Kigoma Urban,Rubuga,842.6
+Kigoma,Kigoma Urban,Rusimbi,803.0
+Kilimanjaro,Hai,Hai Urban,931.6896551724138
+Kilimanjaro,Hai,Machame Kaskazini,1329.25
+Kilimanjaro,Hai,Machame Kusini,859.768115942029
+Kilimanjaro,Hai,Machame Magharibi,1600.2380952380952
+Kilimanjaro,Hai,Machame Mashariki,1302.864406779661
+Kilimanjaro,Hai,Machame Uroki,1301.8026315789473
+Kilimanjaro,Hai,Masama Kusini,1019.6046511627907
+Kilimanjaro,Hai,Masama Magharibi,1425.7758620689656
+Kilimanjaro,Hai,Masama Mashariki,1275.0841121495328
+Kilimanjaro,Hai,Masama Rundugai,869.1621621621622
+Kilimanjaro,Moshi Rural,Arusha Chini,725.2280701754386
+Kilimanjaro,Moshi Rural,Kahe,706.016393442623
+Kilimanjaro,Moshi Rural,Kahe Mashariki,712.4871794871794
+Kilimanjaro,Moshi Rural,Kibosho Kati,1398.2592592592594
+Kilimanjaro,Moshi Rural,Kibosho Magharibi,1333.0121951219512
+Kilimanjaro,Moshi Rural,Kibosho Mashariki,1383.0588235294117
+Kilimanjaro,Moshi Rural,Kilema  Kati,1436.4545454545455
+Kilimanjaro,Moshi Rural,Kilema Kusini,991.7142857142857
+Kilimanjaro,Moshi Rural,Kilema kaskazini,1638.9473684210527
+Kilimanjaro,Moshi Rural,Kimochi,1229.4807692307693
+Kilimanjaro,Moshi Rural,Kindi,1099.8510638297873
+Kilimanjaro,Moshi Rural,Kirima,1124.1052631578948
+Kilimanjaro,Moshi Rural,Kirua Vunjo Kusini,921.295918367347
+Kilimanjaro,Moshi Rural,Kirua Vunjo Magharibi,1539.3653846153845
+Kilimanjaro,Moshi Rural,Kurua Vunjo Mashariki,1296.8181818181818
+Kilimanjaro,Moshi Rural,Mabogini,727.0
+Kilimanjaro,Moshi Rural,Makuyuni,821.8709677419355
+Kilimanjaro,Moshi Rural,Mamba Kaskazini,1525.52
+Kilimanjaro,Moshi Rural,Mamba Kusini,1265.7317073170732
+Kilimanjaro,Moshi Rural,Marangu Magharibi,1606.25
+Kilimanjaro,Moshi Rural,Marangu Mashariki,1430.9019607843138
+Kilimanjaro,Moshi Rural,Mbokomu,1085.875
+Kilimanjaro,Moshi Rural,Mwika Kaskazini,1568.7619047619048
+Kilimanjaro,Moshi Rural,Mwika Kusini,1311.4561403508771
+Kilimanjaro,Moshi Rural,Okoani Kibosho,1457.6363636363637
+Kilimanjaro,Moshi Rural,Old Moshi Magharibi,1141.7857142857142
+Kilimanjaro,Moshi Rural,Old Moshi Mashariki,1141.5636363636363
+Kilimanjaro,Moshi Rural,Uru Kaskazini,1333.0666666666666
+Kilimanjaro,Moshi Rural,Uru Kusini Mawela,1040.2325581395348
+Kilimanjaro,Moshi Rural,Uru Mashariki,1259.4736842105262
+Kilimanjaro,Moshi Rural,Uru Shimbwe,1433.0666666666666
+Kilimanjaro,Moshi Urban,Bondeni,814.0
+Kilimanjaro,Moshi Urban,Karanga,841.8571428571429
+Kilimanjaro,Moshi Urban,Kiboriloni,840.6
+Kilimanjaro,Moshi Urban,Kiusa,830.5
+Kilimanjaro,Moshi Urban,Korongoni,808.0
+Kilimanjaro,Moshi Urban,Longuo,952.4285714285714
+Kilimanjaro,Moshi Urban,Majengo,813.0
+Kilimanjaro,Moshi Urban,Mawenzi,824.0
+Kilimanjaro,Moshi Urban,Mji Mpya,802.0
+Kilimanjaro,Moshi Urban,Msaranga,799.3333333333334
+Kilimanjaro,Moshi Urban,Njoro,781.7142857142857
+Kilimanjaro,Moshi Urban,Pasua,781.2
+Kilimanjaro,Moshi Urban,Rau,903.8
+Kilimanjaro,Mwanga,Chomvu,1457.3181818181818
+Kilimanjaro,Mwanga,Jipe,732.695652173913
+Kilimanjaro,Mwanga,Kifula,1353.5714285714287
+Kilimanjaro,Mwanga,Kighare,1362.2432432432433
+Kilimanjaro,Mwanga,Kileo,703.6363636363636
+Kilimanjaro,Mwanga,Kilomeni,1530.0
+Kilimanjaro,Mwanga,Kirongwe,1338.593220338983
+Kilimanjaro,Mwanga,Kirya,690.3333333333334
+Kilimanjaro,Mwanga,Kwakoa,796.4067796610169
+Kilimanjaro,Mwanga,Lake Jipe,683.7692307692307
+Kilimanjaro,Mwanga,Lembeni,955.9894736842106
+Kilimanjaro,Mwanga,Msangeni,1314.375
+Kilimanjaro,Mwanga,Mwanga Urban,803.5
+Kilimanjaro,Mwanga,Mwaniko,1442.0434782608695
+Kilimanjaro,Mwanga,Ngujini,1561.6
+Kilimanjaro,Mwanga,Shinghatini,1226.9433962264152
+Kilimanjaro,Rombo,Katangara Mrere,1663.909090909091
+Kilimanjaro,Rombo,Kelamfua Mokala,1306.0
+Kilimanjaro,Rombo,Keni  Alleni,1164.8
+Kilimanjaro,Rombo,Keni Mengeni,1458.4938271604938
+Kilimanjaro,Rombo,Kirongo Samanga,1318.125
+Kilimanjaro,Rombo,Kirwa Keni,1479.6
+Kilimanjaro,Rombo,Kisale Msangara,1267.04
+Kilimanjaro,Rombo,Kitirima Kingachi,1420.375
+Kilimanjaro,Rombo,Mahida Holili,1299.8918918918919
+Kilimanjaro,Rombo,Makiidi,1485.8235294117646
+Kilimanjaro,Rombo,Mamsera,975.21875
+Kilimanjaro,Rombo,Mengwe Manda,1280.4473684210527
+Kilimanjaro,Rombo,Motamburu Kitendani,1739.9285714285713
+Kilimanjaro,Rombo,Nanjara Reha,1615.7222222222222
+Kilimanjaro,Rombo,Olele,1361.3846153846155
+Kilimanjaro,Rombo,Shimbi,1394.4782608695652
+Kilimanjaro,Rombo,Tarekea Motamburu,1676.4666666666667
+Kilimanjaro,Rombo,Ubetu Kahe,1635.780487804878
+Kilimanjaro,Rombo,Ushiri Ikuini,1451.34375
+Kilimanjaro,Same,Bendera,461.79411764705884
+Kilimanjaro,Same,Bombo,1356.388888888889
+Kilimanjaro,Same,Bwambo,1682.5
+Kilimanjaro,Same,Chome,1600.6363636363637
+Kilimanjaro,Same,Hedaru,714.2946428571429
+Kilimanjaro,Same,Kihurio,502.4864864864865
+Kilimanjaro,Same,Kirangare,1487.608695652174
+Kilimanjaro,Same,Kisiwani,667.5
+Kilimanjaro,Same,Makanya,705.46
+Kilimanjaro,Same,Maore,530.9545454545455
+Kilimanjaro,Same,Mhezi,1627.25
+Kilimanjaro,Same,Mnyamba,1208.409090909091
+Kilimanjaro,Same,Mpinji,1396.4
+Kilimanjaro,Same,Mshewa,1439.0833333333333
+Kilimanjaro,Same,Msindo,1440.421052631579
+Kilimanjaro,Same,Mtii,1298.2
+Kilimanjaro,Same,Mwembe,967.0185185185185
+Kilimanjaro,Same,Ndungu,495.94444444444446
+Kilimanjaro,Same,Njoro,1069.0
+Kilimanjaro,Same,Ruvu,622.1428571428571
+Kilimanjaro,Same,Same Urban,864.6
+Kilimanjaro,Same,Suji,1487.1666666666667
+Kilimanjaro,Same,Vudee,1460.0833333333333
+Kilimanjaro,Same,Vuje,1402.576923076923
+Kilimanjaro,Same,Vunta,1503.1724137931035
+Kilimanjaro,Siha,Siha Kaskazini,1406.5172413793102
+Kilimanjaro,Siha,Siha Kati,1249.2068965517242
+Kilimanjaro,Siha,Siha Magharibi,1488.4857142857143
+Kilimanjaro,Siha,Siha Mashariki,1378.559633027523
+Lindi,Kilwa,Chumo,172.07692307692307
+Lindi,Kilwa,Kandawale,129.0
+Lindi,Kilwa,Kikole,10.76923076923077
+Lindi,Kilwa,Kinjumbi,-9.731707317073171
+Lindi,Kilwa,Kipatimu,307.06382978723406
+Lindi,Kilwa,Kiranjeranje,21.59259259259259
+Lindi,Kilwa,Kivinje Singino,40.714285714285715
+Lindi,Kilwa,Lihimalyo,-4.2
+Lindi,Kilwa,Likawage,114.15789473684211
+Lindi,Kilwa,Mandawa,34.0
+Lindi,Kilwa,Masoko,-28.470588235294116
+Lindi,Kilwa,Miguruwe,131.83333333333334
+Lindi,Kilwa,Mingumbi,43.84
+Lindi,Kilwa,Miteja,-21.954545454545453
+Lindi,Kilwa,Mitole,47.0
+Lindi,Kilwa,Nanjirinji,48.07142857142857
+Lindi,Kilwa,Njinjo,34.38095238095238
+Lindi,Kilwa,Pande,-20.166666666666668
+Lindi,Kilwa,Songosongo,-39.76923076923077
+Lindi,Kilwa,Tingi,-15.19047619047619
+Lindi,Lindi Rural,Chikonji,93.0
+Lindi,Lindi Rural,Chiponda,242.76666666666668
+Lindi,Lindi Rural,Kilolambwani,16.1
+Lindi,Lindi Rural,Kitomanga,83.55555555555556
+Lindi,Lindi Rural,Kiwalala,27.0
+Lindi,Lindi Rural,Manwanga,267.0
+Lindi,Lindi Rural,Matimba,68.72727272727273
+Lindi,Lindi Rural,Mbanja,-9.2
+Lindi,Lindi Rural,Mchinga,3.0454545454545454
+Lindi,Lindi Rural,Milola,263.2142857142857
+Lindi,Lindi Rural,Mipingo,74.5
+Lindi,Lindi Rural,Mnara,659.5454545454545
+Lindi,Lindi Rural,Mngoyo,-3.125
+Lindi,Lindi Rural,Mnolela,106.58333333333333
+Lindi,Lindi Rural,Mtama,84.4090909090909
+Lindi,Lindi Rural,Mtua,48.4
+Lindi,Lindi Rural,Nachunyu,48.25
+Lindi,Lindi Rural,Nahukahuka,316.7142857142857
+Lindi,Lindi Rural,Nangaru,145.0
+Lindi,Lindi Rural,Ng'apa,2.0
+Lindi,Lindi Rural,Ngangamara,204.375
+Lindi,Lindi Rural,Nyangao,130.47619047619048
+Lindi,Lindi Rural,Nyengedi,93.10714285714286
+Lindi,Lindi Rural,Rutamba,172.77777777777777
+Lindi,Lindi Rural,Sudi,32.285714285714285
+Lindi,Lindi Rural,Tandangongoro,54.233333333333334
+Lindi,Lindi Urban,Jamhuri,-7.533333333333333
+Lindi,Lindi Urban,Mtanda,-3.0
+Lindi,Lindi Urban,Rasbura,44.0
+Lindi,Liwale,Barikiwa,499.90909090909093
+Lindi,Liwale,Kiangara,312.2
+Lindi,Liwale,Kibutuka,245.0
+Lindi,Liwale,Kimambi,350.0
+Lindi,Liwale,Liwale A,469.8333333333333
+Lindi,Liwale,Liwale B,383.1818181818182
+Lindi,Liwale,Makata,553.6923076923077
+Lindi,Liwale,Mangirikiti,459.9
+Lindi,Liwale,Mbaya,365.375
+Lindi,Liwale,Mihumo,528.6923076923077
+Lindi,Liwale,Mirui,262.5
+Lindi,Liwale,Mkutano,267.8
+Lindi,Liwale,Mlembwe,558.5714285714286
+Lindi,Liwale,Mpigamiti,843.3333333333334
+Lindi,Liwale,Nangano,285.3333333333333
+Lindi,Liwale,Ngongowele,512.0
+Lindi,Nachingwea,Chiola,343.6666666666667
+Lindi,Nachingwea,Kiegei,409.14285714285717
+Lindi,Nachingwea,Kilima Rondo,418.84
+Lindi,Nachingwea,Kipara Mnero,308.0
+Lindi,Nachingwea,Lionja,245.04761904761904
+Lindi,Nachingwea,Marambo,399.5238095238095
+Lindi,Nachingwea,Matekwe,430.14285714285717
+Lindi,Nachingwea,Mbondo,336.22222222222223
+Lindi,Nachingwea,Mkoka,276.4
+Lindi,Nachingwea,Mkotokuyana,363.8
+Lindi,Nachingwea,Mnero Miembeni,361.7142857142857
+Lindi,Nachingwea,Mnero Ngongo,305.52941176470586
+Lindi,Nachingwea,Mpiruka,405.625
+Lindi,Nachingwea,Mtua,369.93333333333334
+Lindi,Nachingwea,Naipanga,327.57142857142856
+Lindi,Nachingwea,Naipingo,371.27272727272725
+Lindi,Nachingwea,Namapwia,235.66666666666666
+Lindi,Nachingwea,Namatula,377.8333333333333
+Lindi,Nachingwea,Nambambo,366.54545454545456
+Lindi,Nachingwea,Namikango,310.25
+Lindi,Nachingwea,Nangowe,428.3333333333333
+Lindi,Nachingwea,Nditi,267.8
+Lindi,Nachingwea,Ndomoni,265.3
+Lindi,Nachingwea,Ruponda,419.90909090909093
+Lindi,Nachingwea,Stesheni,343.3333333333333
+Lindi,Ruangwa,Chienjere,379.1875
+Lindi,Ruangwa,Chunyu,219.6
+Lindi,Ruangwa,Likunja,333.0
+Lindi,Ruangwa,Luchelegwa,269.5925925925926
+Lindi,Ruangwa,Makanjiro,286.5
+Lindi,Ruangwa,Malolo,272.2826086956522
+Lindi,Ruangwa,Mandarawe,378.44444444444446
+Lindi,Ruangwa,Mandawa,281.2903225806452
+Lindi,Ruangwa,Mbekenyera,268.34615384615387
+Lindi,Ruangwa,Mnacho,401.5
+Lindi,Ruangwa,Nambilanje,160.33333333333334
+Lindi,Ruangwa,Namichinga,195.83333333333334
+Lindi,Ruangwa,Narungombe,231.85
+Lindi,Ruangwa,Nkowe,410.6470588235294
+Lindi,Ruangwa,Ruangwa,289.73333333333335
+Manyara,Babati,Arri,1585.3157894736842
+Manyara,Babati,Bashinet,2041.421052631579
+Manyara,Babati,Bonga,1417.4545454545455
+Manyara,Babati,Dabil,1603.1063829787233
+Manyara,Babati,Dareda,1625.4615384615386
+Manyara,Babati,Duru,1499.2666666666667
+Manyara,Babati,Gidas,1557.8947368421052
+Manyara,Babati,Madunga,2075.9583333333335
+Manyara,Babati,Magara,985.5526315789474
+Manyara,Babati,Magugu,1006.875
+Manyara,Babati,Mamire,1233.5304347826086
+Manyara,Babati,Mwada,969.2666666666667
+Manyara,Babati,Nkaiti,988.5454545454545
+Manyara,Babati,Qash,1226.2307692307693
+Manyara,Babati,Riroda,1415.6296296296296
+Manyara,Babati,Sigino,1190.0
+Manyara,Babati,Ufana,1832.6785714285713
+Manyara,Hanang,Balangidalalu,1434.2105263157894
+Manyara,Hanang,Bassodesh,1664.0
+Manyara,Hanang,Bassotu,1691.5555555555557
+Manyara,Hanang,Endasak,1609.7575757575758
+Manyara,Hanang,Gehandu,1666.0
+Manyara,Hanang,Gendabi,1655.6521739130435
+Manyara,Hanang,Gidahababieg,1499.5
+Manyara,Hanang,Gisambalang,1455.875
+Manyara,Hanang,Gitting,1824.0
+Manyara,Hanang,Hidet,1571.5
+Manyara,Hanang,Hirbadaw,1598.4285714285713
+Manyara,Hanang,Laghanga,1592.0
+Manyara,Hanang,Masakta,1622.9375
+Manyara,Hanang,Masqaroda,1553.1875
+Manyara,Hanang,Measkron,1656.7272727272727
+Manyara,Hanang,Mogitu,1679.911111111111
+Manyara,Hanang,Nangwa,1615.6
+Manyara,Hanang,Simbay,1469.0
+Manyara,Hanang,Sirop,1504.4
+Manyara,Kiteto,Bwagamoyo,1527.7272727272727
+Manyara,Kiteto,Dongo,1347.0714285714287
+Manyara,Kiteto,Dosidosi,1438.7777777777778
+Manyara,Kiteto,Engusero,1458.8125
+Manyara,Kiteto,Kibaya,1533.4285714285713
+Manyara,Kiteto,Kijungu,1279.2
+Manyara,Kiteto,Lengatei,1357.8260869565217
+Manyara,Kiteto,Makame,1066.9285714285713
+Manyara,Kiteto,Matui,1255.75
+Manyara,Kiteto,Ndedo,1006.0
+Manyara,Kiteto,Njoro,1497.5
+Manyara,Kiteto,Olbolot,1318.0
+Manyara,Kiteto,Partimbo,1430.4166666666667
+Manyara,Kiteto,Songambele,1342.2777777777778
+Manyara,Kiteto,Sunya,1125.1666666666667
+Manyara,Mbulu,Bargish,1739.2777777777778
+Manyara,Mbulu,Bashay,1936.16
+Manyara,Mbulu,Daudi,1791.1666666666667
+Manyara,Mbulu,Dongobesh,1932.9024390243903
+Manyara,Mbulu,Gehandu,1694.4444444444443
+Manyara,Mbulu,Haidom,1712.7333333333333
+Manyara,Mbulu,Kainam,1852.6666666666667
+Manyara,Mbulu,Maghang,1772.625
+Manyara,Mbulu,Maretadu,1735.6571428571428
+Manyara,Mbulu,Masieda,1501.875
+Manyara,Mbulu,Mbulu Urban,1746.0
+Manyara,Mbulu,Murray,1910.5
+Manyara,Mbulu,Sanu,1830.8275862068965
+Manyara,Mbulu,Tlawi,1844.1
+Manyara,Mbulu,Tumati,2067.6428571428573
+Manyara,Mbulu,Yaeda Chini,1338.0714285714287
+Manyara,Simanjiro,Loibor Siret,1303.7058823529412
+Manyara,Simanjiro,Loibor Soit,617.8888888888889
+Manyara,Simanjiro,Mererani,912.2641509433962
+Manyara,Simanjiro,Msitu wa Tembo,698.8545454545455
+Manyara,Simanjiro,Naberera,1262.4705882352941
+Manyara,Simanjiro,Ngorika,683.5
+Manyara,Simanjiro,Oljoro,1052.6666666666667
+Manyara,Simanjiro,Orkesumet,1298.2058823529412
+Manyara,Simanjiro,Ruvu Remit,597.0
+Manyara,Simanjiro,Shambarai,920.829268292683
+Manyara,Simanjiro,Terrat,1195.1
+Mara,Bunda,Bunda,1285.7666666666667
+Mara,Bunda,Butimba,1168.5
+Mara,Bunda,Hunyari,1251.72
+Mara,Bunda,Igundu,1184.5384615384614
+Mara,Bunda,Iramba,1157.857142857143
+Mara,Bunda,Kabasa,1266.0833333333333
+Mara,Bunda,Kibara,1158.391304347826
+Mara,Bunda,Kisorya,1150.7142857142858
+Mara,Bunda,Mcharo,1255.404761904762
+Mara,Bunda,Nansimo,1153.4285714285713
+Mara,Bunda,Neruma,1175.8444444444444
+Mara,Bunda,Nyamhula,1172.9444444444443
+Mara,Bunda,Nyamuswa,1407.0
+Mara,Bunda,Salama,1502.5
+Mara,Bunda,Sazira,1336.8181818181818
+Mara,Bunda,Wariku,1238.4615384615386
+Mara,Musoma Rural,Bugwema,1175.2
+Mara,Musoma Rural,Buhemba,1390.9166666666667
+Mara,Musoma Rural,Bukabwa,1237.0
+Mara,Musoma Rural,Bukima,1185.5714285714287
+Mara,Musoma Rural,Bukumi,1156.0
+Mara,Musoma Rural,Buruma,1273.3529411764705
+Mara,Musoma Rural,Buswahili,1195.7272727272727
+Mara,Musoma Rural,Butiama,1412.1515151515152
+Mara,Musoma Rural,Butuguri,1351.0
+Mara,Musoma Rural,Bwasi,1216.0
+Mara,Musoma Rural,Bwiregi,1225.3939393939395
+Mara,Musoma Rural,Etaro,1212.1764705882354
+Mara,Musoma Rural,Kukirango,1249.423076923077
+Mara,Musoma Rural,Kyanyari,1258.357142857143
+Mara,Musoma Rural,Makojo,1171.4
+Mara,Musoma Rural,Masaba,1382.5217391304348
+Mara,Musoma Rural,Mugango,1155.5
+Mara,Musoma Rural,Murangi,1167.6666666666667
+Mara,Musoma Rural,Muriaza,1466.9615384615386
+Mara,Musoma Rural,Nyakatende,1192.2307692307693
+Mara,Musoma Rural,Nyambono,1251.4117647058824
+Mara,Musoma Rural,Nyamimange,1230.28125
+Mara,Musoma Rural,Nyamrandirira,1181.888888888889
+Mara,Musoma Rural,Nyankanga,1206.9411764705883
+Mara,Musoma Rural,Suguti,1170.5
+Mara,Musoma Rural,Tegeruka,1206.5
+Mara,Rorya,Bukwe,1323.4
+Mara,Rorya,Kigunga,1265.75
+Mara,Rorya,Kirongo,1228.0
+Mara,Rorya,Kisumwa,1195.6
+Mara,Rorya,Kitembe,1366.0
+Mara,Rorya,Komuge,1198.6923076923076
+Mara,Rorya,Koryo,1244.0
+Mara,Rorya,Kyang'ombe,1172.1363636363637
+Mara,Rorya,Mirare,1342.2727272727273
+Mara,Rorya,Mkoma,1248.0208333333333
+Mara,Rorya,Nyahongo,1182.3333333333333
+Mara,Rorya,Nyamagaro,1210.8181818181818
+Mara,Rorya,Nyamtinga,1257.0
+Mara,Rorya,Nyamunga,1168.0
+Mara,Rorya,Nyathorogo,1216.3
+Mara,Rorya,Rabuor,1210.5
+Mara,Serengeti,Busawe,1258.2307692307693
+Mara,Serengeti,Ikoma,1491.75
+Mara,Serengeti,Issenye,1286.695652173913
+Mara,Serengeti,Kebanchabancha,1371.5365853658536
+Mara,Serengeti,Kenyamonta,1278.9080459770114
+Mara,Serengeti,Kisaka,1220.4285714285713
+Mara,Serengeti,Kisangura,1613.0
+Mara,Serengeti,Kyambahi,1529.3103448275863
+Mara,Serengeti,Machochwe,1537.52
+Mara,Serengeti,Manchira,1567.2222222222222
+Mara,Serengeti,Mugumu Urban,1605.359375
+Mara,Serengeti,Natta,1367.5915492957747
+Mara,Serengeti,Nyamatare,1400.9811320754718
+Mara,Serengeti,Nyambureti,1387.5294117647059
+Mara,Serengeti,Nyamoko,1525.9375
+Mara,Serengeti,Rigicha,1340.6206896551723
+Mara,Serengeti,Ring'wani,1382.857142857143
+Mara,Serengeti,Rung'bure,1453.3684210526317
+Mara,Tarime,Binagi,1644.4761904761904
+Mara,Tarime,Bukura,1188.0
+Mara,Tarime,Bumera,1318.6666666666667
+Mara,Tarime,Goribe,1381.6666666666667
+Mara,Tarime,Ikoma,1474.0
+Mara,Tarime,Kemambo,1269.0
+Mara,Tarime,Kibasuka,1327.0
+Mara,Tarime,Manga,1246.6666666666667
+Mara,Tarime,Matongo,1286.6666666666667
+Mara,Tarime,Muriba,1818.5
+Mara,Tarime,Nyakonga,1670.8333333333333
+Mara,Tarime,Nyamwaga,1657.9375
+Mara,Tarime,Nyandoto,1292.857142857143
+Mara,Tarime,Nyanungu,1830.5
+Mara,Tarime,Nyarero,1664.5555555555557
+Mara,Tarime,Nyarokoba,1489.0
+Mara,Tarime,Pemba,1598.0833333333333
+Mara,Tarime,Roche,1257.25
+Mara,Tarime,Serengeti National Park,1796.6
+Mara,Tarime,Sirari,1614.5555555555557
+Mara,Tarime,Tai,1206.304347826087
+Mara,Tarime,Turwa,1501.0
+Mbeya,Chunya,Chalangwa,
+Mbeya,Chunya,Chokaa,
+Mbeya,Chunya,Galula,
+Mbeya,Chunya,Gua,
+Mbeya,Chunya,Ifumbo,
+Mbeya,Chunya,Itewe,
+Mbeya,Chunya,Kambikatoto,
+Mbeya,Chunya,Kanga,
+Mbeya,Chunya,Kapalala,
+Mbeya,Chunya,Lupa tingatinga,
+Mbeya,Chunya,Luwalaje,
+Mbeya,Chunya,Mafyeko,
+Mbeya,Chunya,Makongorosi,
+Mbeya,Chunya,Mamba,
+Mbeya,Chunya,Matwiga,
+Mbeya,Chunya,Mbangala,
+Mbeya,Chunya,Mbugani,
+Mbeya,Chunya,Mbuyuni,
+Mbeya,Chunya,Mkwajuni,
+Mbeya,Chunya,Mtanila,
+Mbeya,Chunya,Ngwala,
+Mbeya,Ileje,Bupigu,
+Mbeya,Ileje,Chitete,
+Mbeya,Ileje,Ikinga,
+Mbeya,Ileje,Isongole,
+Mbeya,Ileje,Itumba,
+Mbeya,Ileje,Kafule,
+Mbeya,Ileje,Luswisi,
+Mbeya,Ileje,Malangali,
+Mbeya,Ileje,Mbebe,
+Mbeya,Ileje,Ndola,
+Mbeya,Kyela,Bujonde,
+Mbeya,Kyela,Busole,
+Mbeya,Kyela,Ikama,
+Mbeya,Kyela,Ikolo,
+Mbeya,Kyela,Ipande,
+Mbeya,Kyela,Ipinda,
+Mbeya,Kyela,Kajunjumele,
+Mbeya,Kyela,Katumbasongwe,
+Mbeya,Kyela,Kyela Urban,
+Mbeya,Kyela,Lusungo,
+Mbeya,Kyela,Makwale,
+Mbeya,Kyela,Matema,
+Mbeya,Kyela,Mwaya,
+Mbeya,Kyela,Ngana,
+Mbeya,Kyela,Ngonga,
+Mbeya,Mbarali,Chimala,
+Mbeya,Mbarali,Igurusi,
+Mbeya,Mbarali,Madibira,
+Mbeya,Mbarali,Mahongole,
+Mbeya,Mbarali,Mapogoro,
+Mbeya,Mbarali,Mawindi,
+Mbeya,Mbarali,Ruiwa,
+Mbeya,Mbarali,Rujewa,
+Mbeya,Mbarali,Ubaruku,
+Mbeya,Mbarali,Utengule Usangu,
+Mbeya,Mbeya Rural,Bonde la Songwe,
+Mbeya,Mbeya Rural,Igale,
+Mbeya,Mbeya Rural,Ihango,
+Mbeya,Mbeya Rural,Ijombe,
+Mbeya,Mbeya Rural,Ilembo,
+Mbeya,Mbeya Rural,Ilungu,
+Mbeya,Mbeya Rural,Inyala,
+Mbeya,Mbeya Rural,Isuto,
+Mbeya,Mbeya Rural,Iwiji,
+Mbeya,Mbeya Rural,Iwindi,
+Mbeya,Mbeya Rural,Iyunga mapinduzi,
+Mbeya,Mbeya Rural,Mshewe,
+Mbeya,Mbeya Rural,Santilya,
+Mbeya,Mbeya Rural,Tembela,
+Mbeya,Mbeya Rural,Ulenje,
+Mbeya,Mbeya Rural,Utengule Usongwe,
+Mbeya,Mbozi,Chilulumo,
+Mbeya,Mbozi,Chiwezi,
+Mbeya,Mbozi,Halungu,
+Mbeya,Mbozi,Igamba,
+Mbeya,Mbozi,Ihanda,
+Mbeya,Mbozi,Isandula,
+Mbeya,Mbozi,Isansa,
+Mbeya,Mbozi,Itaka,
+Mbeya,Mbozi,Ivuna,
+Mbeya,Mbozi,Iyula,
+Mbeya,Mbozi,Kamsamba,
+Mbeya,Mbozi,Kapele,
+Mbeya,Mbozi,Mlangali,
+Mbeya,Mbozi,Mlowo,
+Mbeya,Mbozi,Msangano,
+Mbeya,Mbozi,Msia,
+Mbeya,Mbozi,Myovizi,
+Mbeya,Mbozi,Myunga,
+Mbeya,Mbozi,Nambinzo,
+Mbeya,Mbozi,Ndalambo,
+Mbeya,Mbozi,Nkangamo,
+Mbeya,Mbozi,Nyimbili,
+Mbeya,Mbozi,Ruanda,
+Mbeya,Mbozi,Tunduma,
+Mbeya,Rungwe,Ikuti,
+Mbeya,Rungwe,Ilima,
+Mbeya,Rungwe,Isange,
+Mbeya,Rungwe,Isongole,
+Mbeya,Rungwe,Itete,
+Mbeya,Rungwe,Kabula,
+Mbeya,Rungwe,Kambasegese,
+Mbeya,Rungwe,Kandete,
+Mbeya,Rungwe,Katumba,
+Mbeya,Rungwe,Kinyala,
+Mbeya,Rungwe,Kisegese,
+Mbeya,Rungwe,Kisondela,
+Mbeya,Rungwe,Kiwira,
+Mbeya,Rungwe,Kyimo,
+Mbeya,Rungwe,Lufilyo,
+Mbeya,Rungwe,Lufingo,
+Mbeya,Rungwe,Lupata,
+Mbeya,Rungwe,Lutebe,
+Mbeya,Rungwe,Lwangwa,
+Mbeya,Rungwe,Masukulu,
+Mbeya,Rungwe,Mpondo,
+Mbeya,Rungwe,Mpuguso,
+Mbeya,Rungwe,Suma,
+Morogoro,Kilombero,Chisano,305.0
+Morogoro,Kilombero,Chita,295.03225806451616
+Morogoro,Kilombero,Idete,283.3777777777778
+Morogoro,Kilombero,Ifakara,234.59701492537314
+Morogoro,Kilombero,Kibaoni,275.76404494382024
+Morogoro,Kilombero,Kiberege,287.85
+Morogoro,Kilombero,Kidatu,253.05263157894737
+Morogoro,Kilombero,Kisawasawa,300.6470588235294
+Morogoro,Kilombero,Lumemo,264.1011235955056
+Morogoro,Kilombero,Mang'ula,263.989010989011
+Morogoro,Kilombero,Masagati,488.57142857142856
+Morogoro,Kilombero,Mbingu,284.53846153846155
+Morogoro,Kilombero,Mchombe,285.8695652173913
+Morogoro,Kilombero,Mkula,263.84615384615387
+Morogoro,Kilombero,Mlimba,326.6714285714286
+Morogoro,Kilombero,Mofu,261.1904761904762
+Morogoro,Kilombero,Sanje,270.6034482758621
+Morogoro,Kilombero,Uchindile,1214.0
+Morogoro,Kilombero,Utengule,298.4761904761905
+Morogoro,Kilosa,Berega,
+Morogoro,Kilosa,Chakwale,1058.7101449275362
+Morogoro,Kilosa,Chanzuru,439.6860465116279
+Morogoro,Kilosa,Dumila,
+Morogoro,Kilosa,Gairo,1326.875
+Morogoro,Kilosa,Iyogwe,
+Morogoro,Kilosa,Kibedya,1181.157894736842
+Morogoro,Kilosa,Kidete,742.9444444444445
+Morogoro,Kilosa,Kidodi,320.36708860759495
+Morogoro,Kilosa,Kilangali,426.3181818181818
+Morogoro,Kilosa,Kimamba A,438.85714285714283
+Morogoro,Kilosa,Kimamba B,434.0
+Morogoro,Kilosa,Kisanga,722.0166666666667
+Morogoro,Kilosa,Lumbiji,1266.25
+Morogoro,Kilosa,Lumuma,901.9
+Morogoro,Kilosa,Mabwerebwere,462.078431372549
+Morogoro,Kilosa,Magole,
+Morogoro,Kilosa,Magubike,
+Morogoro,Kilosa,Malolo,557.4444444444445
+Morogoro,Kilosa,Mamboya,
+Morogoro,Kilosa,Masanze,543.2727272727273
+Morogoro,Kilosa,Mikumi,570.0232558139535
+Morogoro,Kilosa,Msowero,
+Morogoro,Kilosa,Rubeho,1317.7924528301887
+Morogoro,Kilosa,Rudewa,495.3333333333333
+Morogoro,Kilosa,Ruhembe,299.14736842105265
+Morogoro,Kilosa,Ulaya,534.8095238095239
+Morogoro,Kilosa,Zombo,490.08
+Morogoro,Morogoro Rural,Bwakila Chini,146.78787878787878
+Morogoro,Morogoro Rural,Bwakila Juu,360.2
+Morogoro,Morogoro Rural,Kidugalo,179.625
+Morogoro,Morogoro Rural,Kinole,490.0769230769231
+Morogoro,Morogoro Rural,Kiroka,371.0217391304348
+Morogoro,Morogoro Rural,Kisaki,183.07142857142858
+Morogoro,Morogoro Rural,Kisemu,329.63793103448273
+Morogoro,Morogoro Rural,Kolero,421.6190476190476
+Morogoro,Morogoro Rural,Lundi,356.75
+Morogoro,Morogoro Rural,Mkambalani,469.85185185185185
+Morogoro,Morogoro Rural,Mkulazi,96.11111111111111
+Morogoro,Morogoro Rural,Mkuyuni,385.4102564102564
+Morogoro,Morogoro Rural,Mngazi,182.59259259259258
+Morogoro,Morogoro Rural,Mtombozi,375.4117647058824
+Morogoro,Morogoro Rural,Mvuha,137.07894736842104
+Morogoro,Morogoro Rural,Ngerengere,182.95
+Morogoro,Morogoro Rural,Selambala,94.52173913043478
+Morogoro,Morogoro Rural,Tawa,399.55
+Morogoro,Morogoro Rural,Tununguo,181.22222222222223
+Morogoro,Morogoro Urban,Bigwa,522.3846153846154
+Morogoro,Morogoro Urban,Boma,517.0
+Morogoro,Morogoro Urban,Kihonda,538.3913043478261
+Morogoro,Morogoro Urban,Kilakala,545.6666666666666
+Morogoro,Morogoro Urban,Kingolwira,470.6666666666667
+Morogoro,Morogoro Urban,Mazimbu,535.0
+Morogoro,Morogoro Urban,Mbuyuni,680.8666666666667
+Morogoro,Morogoro Urban,Mlimani,1273.0
+Morogoro,Morogoro Urban,Mwembesongo,496.6666666666667
+Morogoro,Morogoro Urban,Mzinga,560.85
+Morogoro,Morogoro Urban,Uwanja wa Ndege,490.0
+Morogoro,Mvomero,Bunduki,998.1666666666666
+Morogoro,Mvomero,Diongoya,354.3398058252427
+Morogoro,Mvomero,Doma,523.5957446808511
+Morogoro,Mvomero,Hembeti,345.35714285714283
+Morogoro,Mvomero,Kanga,375.1372549019608
+Morogoro,Mvomero,Kibati,761.7083333333334
+Morogoro,Mvomero,Langali,1077.25
+Morogoro,Mvomero,Maskati,773.0
+Morogoro,Mvomero,Melela,481.6585365853659
+Morogoro,Mvomero,Mhonda,459.0
+Morogoro,Mvomero,Mlali,559.265306122449
+Morogoro,Mvomero,Mtibwa,332.81081081081084
+Morogoro,Mvomero,Mvomero,367.7984496124031
+Morogoro,Mvomero,Mzumbe,494.0833333333333
+Morogoro,Mvomero,Sungaji,341.962962962963
+Morogoro,Mvomero,Tchenzema,1627.4285714285713
+Morogoro,Ulanga,Biro,286.4375
+Morogoro,Ulanga,Chirombola,364.3076923076923
+Morogoro,Ulanga,Euga,352.6470588235294
+Morogoro,Ulanga,Ilonga,363.525
+Morogoro,Ulanga,Iragua,313.3
+Morogoro,Ulanga,Isongo,912.3478260869565
+Morogoro,Ulanga,Itete,327.5833333333333
+Morogoro,Ulanga,Kichangani,331.47058823529414
+Morogoro,Ulanga,Kilosa Mpepo,321.92857142857144
+Morogoro,Ulanga,Lukande,344.9230769230769
+Morogoro,Ulanga,Lupiro,297.02564102564105
+Morogoro,Ulanga,Malinyi,292.1388888888889
+Morogoro,Ulanga,Mbuga,372.90909090909093
+Morogoro,Ulanga,Minepa,269.8421052631579
+Morogoro,Ulanga,Msogezi,514.6666666666666
+Morogoro,Ulanga,Mtimbira,321.57142857142856
+Morogoro,Ulanga,Mwaya,321.38461538461536
+Morogoro,Ulanga,Ngoheranga,301.77777777777777
+Morogoro,Ulanga,Ruaha,402.6296296296296
+Morogoro,Ulanga,Sali,717.6111111111111
+Morogoro,Ulanga,Sofi,323.8421052631579
+Morogoro,Ulanga,Usangule,311.5681818181818
+Morogoro,Ulanga,Vigoi,947.9545454545455
+Mtwara,Masasi,Chigungu,344.5
+Mtwara,Masasi,Chiugutwa,288.7674418604651
+Mtwara,Masasi,Lipumburu,328.0
+Mtwara,Masasi,Lukulendi,384.5438596491228
+Mtwara,Masasi,Lulindi,368.4655172413793
+Mtwara,Masasi,Mbuyuni,281.3333333333333
+Mtwara,Masasi,Mchauru,229.625
+Mtwara,Masasi,Mkululu,381.85714285714283
+Mtwara,Masasi,Mkundi,377.25
+Mtwara,Masasi,Mnavira,210.95238095238096
+Mtwara,Masasi,Mpindimbi,475.7
+Mtwara,Masasi,Mwena,303.17021276595744
+Mtwara,Masasi,Namajani,398.984375
+Mtwara,Masasi,Namalenga,361.38709677419354
+Mtwara,Masasi,Namatutwe,341.0
+Mtwara,Masasi,Nanganga,232.82608695652175
+Mtwara,Masasi,Nanjota,327.6969696969697
+Mtwara,Masasi,Sindano,195.44
+Mtwara,Mtwara Rural,Chawi,68.52173913043478
+Mtwara,Mtwara Rural,Dihimba,22.238095238095237
+Mtwara,Mtwara Rural,Kiromba,112.47368421052632
+Mtwara,Mtwara Rural,Kitaya,-5.2727272727272725
+Mtwara,Mtwara Rural,Kitere,34.23529411764706
+Mtwara,Mtwara Rural,Madimba,-10.142857142857142
+Mtwara,Mtwara Rural,Mahurunga,-21.641025641025642
+Mtwara,Mtwara Rural,Mayanga,70.375
+Mtwara,Mtwara Rural,Mnima,233.6
+Mtwara,Mtwara Rural,Mtiniko,160.45454545454547
+Mtwara,Mtwara Rural,Namtuhuka,163.08333333333334
+Mtwara,Mtwara Rural,Nanguruwe,95.61538461538461
+Mtwara,Mtwara Rural,Nanyamba,198.33333333333334
+Mtwara,Mtwara Rural,Naumbu,-20.791666666666668
+Mtwara,Mtwara Rural,Ndumbwe,-23.846153846153847
+Mtwara,Mtwara Rural,Nitekela,223.85714285714286
+Mtwara,Mtwara Rural,Njengwa,226.19230769230768
+Mtwara,Mtwara Rural,Ziwani,-10.709677419354838
+Mtwara,Mtwara Urban,Chikongola,-19.0
+Mtwara,Mtwara Urban,Chuno,-44.8
+Mtwara,Mtwara Urban,Jangwani,-31.928571428571427
+Mtwara,Mtwara Urban,Likombe,-30.14814814814815
+Mtwara,Mtwara Urban,Magengeni,-12.571428571428571
+Mtwara,Mtwara Urban,Majengo,-22.0
+Mtwara,Mtwara Urban,Mitengo,-35.75
+Mtwara,Mtwara Urban,Mtonya,-38.5
+Mtwara,Mtwara Urban,Railway,-25.8
+Mtwara,Mtwara Urban,Shangani,-20.75
+Mtwara,Mtwara Urban,Ufukoni,3.864864864864865
+Mtwara,Mtwara Urban,Vigaeni,-24.714285714285715
+Mtwara,Nanyumbu,Chipuputa,360.75
+Mtwara,Nanyumbu,Lemasule,350.125
+Mtwara,Nanyumbu,Likokona,368.27272727272725
+Mtwara,Nanyumbu,Makonona,250.07692307692307
+Mtwara,Nanyumbu,Maratani,339.53333333333336
+Mtwara,Nanyumbu,Masuguru,180.54545454545453
+Mtwara,Nanyumbu,Mikangaula,332.72727272727275
+Mtwara,Nanyumbu,Nandete,324.72727272727275
+Mtwara,Nanyumbu,Nangomba,358.27777777777777
+Mtwara,Nanyumbu,Nanyumbu,275.03125
+Mtwara,Nanyumbu,Napacho,309.2
+Mtwara,Nanyumbu,Sengenya,403.9
+Mtwara,Newala,Chilangala,791.3333333333334
+Mtwara,Newala,Chitekete,586.125
+Mtwara,Newala,Chiwonga,436.8181818181818
+Mtwara,Newala,Kitangari,473.4761904761905
+Mtwara,Newala,Luchingu,527.0714285714286
+Mtwara,Newala,Makote,499.2
+Mtwara,Newala,Makukwe,465.7
+Mtwara,Newala,Malatu,534.4285714285714
+Mtwara,Newala,Maputi,490.22727272727275
+Mtwara,Newala,Mchemo,574.6470588235294
+Mtwara,Newala,Mcholi II,439.3333333333333
+Mtwara,Newala,Mkunya,275.0
+Mtwara,Newala,Mkwedu,512.8333333333334
+Mtwara,Newala,Mnekachi,664.0
+Mtwara,Newala,Mnyambe,726.2222222222222
+Mtwara,Newala,Mpotwa,432.96666666666664
+Mtwara,Newala,Namiyonga,558.7142857142857
+Mtwara,Newala,Nanguruwe,467.0
+Mtwara,Tandahimba,Chaume,351.3636363636364
+Mtwara,Tandahimba,Chingungwe,422.0769230769231
+Mtwara,Tandahimba,Kitama,207.5
+Mtwara,Tandahimba,Luagala,335.3
+Mtwara,Tandahimba,Lukokoda,306.8
+Mtwara,Tandahimba,Lyenje,288.8
+Mtwara,Tandahimba,Mahuta,425.85714285714283
+Mtwara,Tandahimba,Maundo,227.1818181818182
+Mtwara,Tandahimba,Mdimba Mnyoma,349.8421052631579
+Mtwara,Tandahimba,Michenjele,152.30769230769232
+Mtwara,Tandahimba,Mihambwe,183.16666666666666
+Mtwara,Tandahimba,Milogodi,307.61538461538464
+Mtwara,Tandahimba,Mkonjowano,342.14285714285717
+Mtwara,Tandahimba,Mkoreha,177.8125
+Mtwara,Tandahimba,Mkundi,322.72727272727275
+Mtwara,Tandahimba,Mkwiti,118.0
+Mtwara,Tandahimba,Mnyawa,233.30769230769232
+Mtwara,Tandahimba,Namikupa,237.75
+Mtwara,Tandahimba,Nanhyanga,320.44444444444446
+Mtwara,Tandahimba,Naputa,216.4
+Mtwara,Tandahimba,Tandahimba,238.38888888888889
+Mwanza,Geita,Bukoli,
+Mwanza,Geita,Bukondo,
+Mwanza,Geita,Bukwimba,
+Mwanza,Geita,Busanda,
+Mwanza,Geita,Busolwa,
+Mwanza,Geita,Chigunga,
+Mwanza,Geita,Ihanamilo,
+Mwanza,Geita,Kafita,
+Mwanza,Geita,Kagu,
+Mwanza,Geita,Kakora,
+Mwanza,Geita,Kalangalala,
+Mwanza,Geita,Kamena,
+Mwanza,Geita,Kamhanga,
+Mwanza,Geita,Kasamwa,
+Mwanza,Geita,Kaseme,
+Mwanza,Geita,Katoro,
+Mwanza,Geita,Kharumwa,
+Mwanza,Geita,Lubanga,
+Mwanza,Geita,Lwamgasa,
+Mwanza,Geita,Mtakuja,
+Mwanza,Geita,Mwingiro,
+Mwanza,Geita,Nkome,
+Mwanza,Geita,Nyachiluluma,
+Mwanza,Geita,Nyakagomba,
+Mwanza,Geita,Nyakamwaga,
+Mwanza,Geita,Nyamalimbe,
+Mwanza,Geita,Nyang'hwale,
+Mwanza,Geita,Nyugwa,
+Mwanza,Geita,Nzera,
+Mwanza,Geita,Senga,
+Mwanza,Geita,Shabaka,
+Mwanza,Ilemela,Bugogwe,
+Mwanza,Ilemela,Buhongwa,
+Mwanza,Ilemela,Buswelu,1242.7272727272727
+Mwanza,Ilemela,Butimba,
+Mwanza,Ilemela,Ilemela,1220.8
+Mwanza,Ilemela,Mkolani,
+Mwanza,Ilemela,Nyakato,
+Mwanza,Ilemela,Pasiansi,
+Mwanza,Ilemela,Sangabuye,
+Mwanza,Kwimba,Bungulwa,
+Mwanza,Kwimba,Bupamwa,
+Mwanza,Kwimba,Fukalo,
+Mwanza,Kwimba,Hungumalwa,
+Mwanza,Kwimba,Igongwa,
+Mwanza,Kwimba,Iseni,
+Mwanza,Kwimba,Kikubiji,
+Mwanza,Kwimba,Lyoma,
+Mwanza,Kwimba,Maligisu,
+Mwanza,Kwimba,Malya,
+Mwanza,Kwimba,Mantare,
+Mwanza,Kwimba,Mhande,
+Mwanza,Kwimba,Mwabomba,
+Mwanza,Kwimba,Mwagi,
+Mwanza,Kwimba,Mwakilyambiti,
+Mwanza,Kwimba,Mwamala,
+Mwanza,Kwimba,Mwandu,
+Mwanza,Kwimba,Mwang'halanga,
+Mwanza,Kwimba,Ng'hundi,
+Mwanza,Kwimba,Ngudu,
+Mwanza,Kwimba,Ngulla,
+Mwanza,Kwimba,Nyambiti,
+Mwanza,Kwimba,Nyamilama,
+Mwanza,Kwimba,Sumve,
+Mwanza,Kwimba,Wala,
+Mwanza,Magu,Badugu,
+Mwanza,Magu,Bujashi,
+Mwanza,Magu,Igalukilo,
+Mwanza,Magu,Kabita,
+Mwanza,Magu,Kahangara,
+Mwanza,Magu,Kalemela,
+Mwanza,Magu,Kiloleli,
+Mwanza,Magu,Kisesa,
+Mwanza,Magu,Kitongo Sima,
+Mwanza,Magu,Kongolo,
+Mwanza,Magu,Lubugo,
+Mwanza,Magu,Lutale,
+Mwanza,Magu,Magu Urban,
+Mwanza,Magu,Malili,
+Mwanza,Magu,Mkula,
+Mwanza,Magu,Mwamabanza,
+Mwanza,Magu,Mwamanga,
+Mwanza,Magu,Mwananyili,
+Mwanza,Magu,Ng'haya,
+Mwanza,Magu,Ngasamo,
+Mwanza,Magu,Nkungulu,
+Mwanza,Magu,Nyaluhande,
+Mwanza,Magu,Nyanguge,
+Mwanza,Magu,Nyigogo,
+Mwanza,Magu,Shigala,
+Mwanza,Magu,Shishani,
+Mwanza,Magu,Sukuma,
+Mwanza,Missungwi,Buhingo,
+Mwanza,Missungwi,Busongo,
+Mwanza,Missungwi,Idetemya,
+Mwanza,Missungwi,Ilujamate,
+Mwanza,Missungwi,Kanyelele,
+Mwanza,Missungwi,Kasololo,
+Mwanza,Missungwi,Kijima,
+Mwanza,Missungwi,Koromije,
+Mwanza,Missungwi,Lubiri,
+Mwanza,Missungwi,Mbarika,
+Mwanza,Missungwi,Misasi,
+Mwanza,Missungwi,Missungwi,
+Mwanza,Missungwi,Mwaniko,
+Mwanza,Missungwi,Nhundulu,
+Mwanza,Missungwi,Shilalo,
+Mwanza,Missungwi,Sumbugu,
+Mwanza,Missungwi,Ukiriguru,
+Mwanza,Missungwi,Usagara,
+Mwanza,Nyamagana,Igogo,
+Mwanza,Sengerema,Bupandwamhela,
+Mwanza,Sengerema,Busisi,
+Mwanza,Sengerema,Buyagu,
+Mwanza,Sengerema,Buzilasoga,
+Mwanza,Sengerema,Chifunfu,
+Mwanza,Sengerema,Igalula,
+Mwanza,Sengerema,Kafunzo,
+Mwanza,Sengerema,Kagunga,
+Mwanza,Sengerema,Kalebezo,
+Mwanza,Sengerema,Kasungamile,
+Mwanza,Sengerema,Katunguru,
+Mwanza,Sengerema,Katwe,
+Mwanza,Sengerema,Kazunzu,
+Mwanza,Sengerema,Lugata,
+Mwanza,Sengerema,Nyakalilo,
+Mwanza,Sengerema,Nyakasasa,
+Mwanza,Sengerema,Nyakasungwa,
+Mwanza,Sengerema,Nyamatongo,
+Mwanza,Sengerema,Nyanzenda,
+Mwanza,Sengerema,Nyehunge,
+Mwanza,Sengerema,Sima,
+Mwanza,Sengerema,Tabaruka,
+Mwanza,Ukerewe,Bukanda,1172.047619047619
+Mwanza,Ukerewe,Bukiko,1169.2
+Mwanza,Ukerewe,Bukindo,1154.0
+Mwanza,Ukerewe,Bukongo,1188.4444444444443
+Mwanza,Ukerewe,Bwiro,1175.357142857143
+Mwanza,Ukerewe,Bwisya,1167.695652173913
+Mwanza,Ukerewe,Igalla,1187.235294117647
+Mwanza,Ukerewe,Ilangala,1166.1379310344828
+Mwanza,Ukerewe,Karenge,1169.0
+Mwanza,Ukerewe,Mukituntu,1286.6904761904761
+Mwanza,Ukerewe,Muriti,1201.6451612903227
+Mwanza,Ukerewe,Murutunguru,1197.0263157894738
+Mwanza,Ukerewe,Nakatuguru,1141.4
+Mwanza,Ukerewe,Namagondo,1247.65
+Mwanza,Ukerewe,Namilembe,1172.4814814814815
+Mwanza,Ukerewe,Nduruma,1226.0
+Mwanza,Ukerewe,Ngoma,1164.4166666666667
+Mwanza,Ukerewe,Nkilizya,1175.5
+Pwani,Bagamoyo,Chalinze,169.76530612244898
+Pwani,Bagamoyo,Dunda,-20.6
+Pwani,Bagamoyo,Kibindu,363.92
+Pwani,Bagamoyo,Kiromo,5.654545454545454
+Pwani,Bagamoyo,Kiwangwa,137.52631578947367
+Pwani,Bagamoyo,Lugoba,231.31578947368422
+Pwani,Bagamoyo,Magomeni,-15.954887218045112
+Pwani,Bagamoyo,Mbwewe,327.625
+Pwani,Bagamoyo,Miono,280.95
+Pwani,Bagamoyo,Mkange,106.46153846153847
+Pwani,Bagamoyo,Msata,243.4931506849315
+Pwani,Bagamoyo,Talawanda,133.2
+Pwani,Bagamoyo,Ubenazamozi,250.375
+Pwani,Bagamoyo,Vigwaza,-4.48
+Pwani,Bagamoyo,Yombo,8.913461538461538
+Pwani,Bagamoyo,Zinga/Ikerege,-4.64748201438849
+Pwani,Kibaha,Kibaha,92.03448275862068
+Pwani,Kibaha,Kwala,50.916666666666664
+Pwani,Kibaha,Magindu,142.5
+Pwani,Kibaha,Mailimoja,94.23529411764706
+Pwani,Kibaha,Mlandizi,35.27272727272727
+Pwani,Kibaha,Ruvu,16.12
+Pwani,Kibaha,Soga,110.0873786407767
+Pwani,Kibaha,Tumbi,97.68
+Pwani,Kibaha,Visiga,55.44186046511628
+Pwani,Kisarawe,Cholesamvula,314.5
+Pwani,Kisarawe,Kibuta,235.94117647058823
+Pwani,Kisarawe,Kiluvya,108.0
+Pwani,Kisarawe,Kisarawe,216.5
+Pwani,Kisarawe,Kurui,139.6875
+Pwani,Kisarawe,Mafinzi,51.25
+Pwani,Kisarawe,Maneromango,340.5
+Pwani,Kisarawe,Marui,107.0
+Pwani,Kisarawe,Marumbo,306.92
+Pwani,Kisarawe,Masaki,236.14285714285714
+Pwani,Kisarawe,Msanga,329.125
+Pwani,Kisarawe,Msimbu,129.1875
+Pwani,Kisarawe,Mzenga,76.29268292682927
+Pwani,Kisarawe,Vihingo,69.86666666666666
+Pwani,Kisarawe,Vikumbulu,283.5
+Pwani,Mafia,Baleni,-28.863636363636363
+Pwani,Mafia,Jibondo,-43.0
+Pwani,Mafia,Kanga,-32.0
+Pwani,Mafia,Kiegeani,-22.545454545454547
+Pwani,Mafia,Kilindoni,-17.404255319148938
+Pwani,Mafia,Kirongwe,-23.294117647058822
+Pwani,Mafia,Mibulani,-28.3
+Pwani,Mkuranga,Bupu,62.42857142857143
+Pwani,Mkuranga,Kimanzichana,40.6875
+Pwani,Mkuranga,Kisiju,-1.4
+Pwani,Mkuranga,Kitomondo,25.0
+Pwani,Mkuranga,Lukanga,7.75
+Pwani,Mkuranga,Magawa,5.735849056603773
+Pwani,Mkuranga,Mbezi,24.323529411764707
+Pwani,Mkuranga,Mkamba,67.51515151515152
+Pwani,Mkuranga,Mkuranga,63.01851851851852
+Pwani,Mkuranga,Mwalusembe,40.05882352941177
+Pwani,Mkuranga,Nyamato,18.347826086956523
+Pwani,Mkuranga,Panzuo,121.625
+Pwani,Mkuranga,Shungubweni,-30.071428571428573
+Pwani,Mkuranga,Tambani,49.05769230769231
+Pwani,Mkuranga,Vikindu,31.21875
+Pwani,Rufiji,Bungu,87.80327868852459
+Pwani,Rufiji,Chumbi,-32.61538461538461
+Pwani,Rufiji,Ikwiriri,-14.84
+Pwani,Rufiji,Kibiti,151.05084745762713
+Pwani,Rufiji,Mahege,35.94444444444444
+Pwani,Rufiji,Mbwara,72.75
+Pwani,Rufiji,Mchukwi,36.0
+Pwani,Rufiji,Mkongo,-4.425
+Pwani,Rufiji,Mwaseni,17.057142857142857
+Pwani,Rufiji,Ngorongo,5.666666666666667
+Pwani,Rufiji,Ruaruke,48.13333333333333
+Pwani,Rufiji,Salale,-45.875
+Pwani,Rufiji,Umwe,-22.352941176470587
+Pwani,Rufiji,Utete,29.746031746031747
+Rukwa,Mpanda,Ikola,772.4827586206897
+Rukwa,Mpanda,Ilela,1147.8823529411766
+Rukwa,Mpanda,Ilembo,1081.875
+Rukwa,Mpanda,Ilunde,1152.375
+Rukwa,Mpanda,Inyonga,1167.595238095238
+Rukwa,Mpanda,Kabungu,1080.2916666666667
+Rukwa,Mpanda,Karema,779.7083333333334
+Rukwa,Mpanda,Kashaulili,1073.4545454545455
+Rukwa,Mpanda,Kasokola,1150.2272727272727
+Rukwa,Mpanda,Katuma,1098.8
+Rukwa,Mpanda,Katumba,1206.0425531914893
+Rukwa,Mpanda,Kawajense,1095.0
+Rukwa,Mpanda,Kibaoni,966.5555555555555
+Rukwa,Mpanda,Machimboni,1092.5
+Rukwa,Mpanda,Magamba,1136.909090909091
+Rukwa,Mpanda,Mamba,895.4516129032259
+Rukwa,Mpanda,Mbede,911.0
+Rukwa,Mpanda,Mishamo,1297.8916256157636
+Rukwa,Mpanda,Misunkumilo,1076.0
+Rukwa,Mpanda,Mpanda Ndogo,1188.8666666666666
+Rukwa,Mpanda,Mtapenda,1146.078947368421
+Rukwa,Mpanda,Mwese,1725.1666666666667
+Rukwa,Mpanda,Nsemulwa,1086.0
+Rukwa,Mpanda,Nsimbo,1134.6964285714287
+Rukwa,Mpanda,Shanwe,1067.5
+Rukwa,Mpanda,Sitalike,1009.6153846153846
+Rukwa,Mpanda,Ugala,1138.5
+Rukwa,Mpanda,Urwira,1052.8
+Rukwa,Mpanda,Usevya,929.6666666666666
+Rukwa,Mpanda,Utende,1192.5
+Rukwa,Nkasi,Chala,1753.7692307692307
+Rukwa,Nkasi,Isale,1635.3548387096773
+Rukwa,Nkasi,Kabwe,766.0487804878048
+Rukwa,Nkasi,Kala,983.7272727272727
+Rukwa,Nkasi,Kate,1685.2307692307693
+Rukwa,Nkasi,Kipande,1904.8620689655172
+Rukwa,Nkasi,Kirando,763.1
+Rukwa,Nkasi,Mkwamba,1755.1538461538462
+Rukwa,Nkasi,Mtenga,1561.095238095238
+Rukwa,Nkasi,Namanyere,1533.3125
+Rukwa,Nkasi,Sintali,1708.6666666666667
+Rukwa,Nkasi,Wampelembe,820.1818181818181
+Rukwa,Sumbawanga Rural,Kalambazite,1690.9473684210527
+Rukwa,Sumbawanga Rural,Kasanga,1232.8
+Rukwa,Sumbawanga Rural,Katazi,1748.875
+Rukwa,Sumbawanga Rural,Kipeta,811.375
+Rukwa,Sumbawanga Rural,Laela,1543.142857142857
+Rukwa,Sumbawanga Rural,Legezamwendo,1481.904761904762
+Rukwa,Sumbawanga Rural,Mambwekenya,1621.6
+Rukwa,Sumbawanga Rural,Mambwenkoswe,1625.909090909091
+Rukwa,Sumbawanga Rural,Matai,1702.6041666666667
+Rukwa,Sumbawanga Rural,Miangalua,1560.1052631578948
+Rukwa,Sumbawanga Rural,Milepa,834.25
+Rukwa,Sumbawanga Rural,Mkowe,1683.3125
+Rukwa,Sumbawanga Rural,Mpui,1584.2
+Rukwa,Sumbawanga Rural,Msanzi,1773.795918367347
+Rukwa,Sumbawanga Rural,Mtowisa,832.1388888888889
+Rukwa,Sumbawanga Rural,Muze,823.5714285714286
+Rukwa,Sumbawanga Rural,Mwazye,1789.1636363636364
+Rukwa,Sumbawanga Rural,Mwimbi,1752.35
+Rukwa,Sumbawanga Rural,Sandulula,2022.962962962963
+Rukwa,Sumbawanga Rural,Sopa,1675.4444444444443
+Rukwa,Sumbawanga Urban,Izia,1876.0
+Rukwa,Sumbawanga Urban,Kasense,1835.142857142857
+Rukwa,Sumbawanga Urban,Katandala,1824.5
+Rukwa,Sumbawanga Urban,Malangali,1790.4
+Rukwa,Sumbawanga Urban,Matanga,1819.1666666666667
+Rukwa,Sumbawanga Urban,Mazwi,1813.2307692307693
+Rukwa,Sumbawanga Urban,Milanzi,1922.8095238095239
+Rukwa,Sumbawanga Urban,Mollo,2022.3
+Rukwa,Sumbawanga Urban,Ntendo,1828.875
+Rukwa,Sumbawanga Urban,Old Sumbawanga,1844.095238095238
+Rukwa,Sumbawanga Urban,Pito,1910.2727272727273
+Rukwa,Sumbawanga Urban,Senga,1930.952380952381
+Ruvuma,Mbinga,Chiwanda,468.04347826086956
+Ruvuma,Mbinga,Kigonsera,967.0555555555555
+Ruvuma,Mbinga,Kihagara,523.8913043478261
+Ruvuma,Mbinga,Kihangimahuka,1182.0
+Ruvuma,Mbinga,Kilimani,1326.2
+Ruvuma,Mbinga,Kilosa,475.8809523809524
+Ruvuma,Mbinga,Kingerikiti,1396.0
+Ruvuma,Mbinga,Kitura,1263.5
+Ruvuma,Mbinga,Langiro,1496.1666666666667
+Ruvuma,Mbinga,Linda,1263.0
+Ruvuma,Mbinga,Lipingo,475.4782608695652
+Ruvuma,Mbinga,Litembo,1662.0666666666666
+Ruvuma,Mbinga,Lituhi,487.6296296296296
+Ruvuma,Mbinga,Litumbandyosi,887.0
+Ruvuma,Mbinga,Liuli,482.8727272727273
+Ruvuma,Mbinga,Maguu,1493.25
+Ruvuma,Mbinga,Matiri,1256.578947368421
+Ruvuma,Mbinga,Mbaha,553.6
+Ruvuma,Mbinga,Mbamba bay,470.9310344827586
+Ruvuma,Mbinga,Mbangamao,1181.047619047619
+Ruvuma,Mbinga,Mbinga Urban,1298.2075471698113
+Ruvuma,Mbinga,Mbuji,1651.1666666666667
+Ruvuma,Mbinga,Mikalanga,1541.4736842105262
+Ruvuma,Mbinga,Mkumbi,1404.0
+Ruvuma,Mbinga,Mpapa,1455.08
+Ruvuma,Mbinga,Mpepai,946.5
+Ruvuma,Mbinga,Mtipwili,469.125
+Ruvuma,Mbinga,Myangayanga,1388.5238095238096
+Ruvuma,Mbinga,Ndogosi,1230.0
+Ruvuma,Mbinga,Ngima,1620.7777777777778
+Ruvuma,Mbinga,Nyoni,1605.2105263157894
+Ruvuma,Mbinga,Ruanda,863.6333333333333
+Ruvuma,Mbinga,Tingi,1234.25
+Ruvuma,Mbinga,Ukata,831.0
+Ruvuma,Mbinga,Utiri,1371.0
+Ruvuma,Namtumbo,Kitanda,985.3265306122449
+Ruvuma,Namtumbo,Ligera,765.6190476190476
+Ruvuma,Namtumbo,Luchili,871.48
+Ruvuma,Namtumbo,Luegu,951.9594594594595
+Ruvuma,Namtumbo,Lusewa,710.7924528301887
+Ruvuma,Namtumbo,Magazini,577.2222222222222
+Ruvuma,Namtumbo,Mgombasi,762.6545454545454
+Ruvuma,Namtumbo,Mkongo,863.6666666666666
+Ruvuma,Namtumbo,Msindo,980.3956043956044
+Ruvuma,Namtumbo,Namabengo,846.0
+Ruvuma,Namtumbo,Rwinga,827.6666666666666
+Ruvuma,Songea Rural,Gumbiro,954.4772727272727
+Ruvuma,Songea Rural,Ifinga,691.0
+Ruvuma,Songea Rural,Kilagano,1025.5384615384614
+Ruvuma,Songea Rural,Lilambo,999.65625
+Ruvuma,Songea Rural,Litisha,959.3846153846154
+Ruvuma,Songea Rural,Magagura,915.9770114942529
+Ruvuma,Songea Rural,Mahanje,1016.8490566037735
+Ruvuma,Songea Rural,Maposeni,991.5846153846154
+Ruvuma,Songea Rural,Matimira,860.4590163934427
+Ruvuma,Songea Rural,Mpitimbi,990.2205882352941
+Ruvuma,Songea Rural,Muhukuru,719.3333333333334
+Ruvuma,Songea Rural,Ndogosi,854.6
+Ruvuma,Songea Rural,Tanga,1060.945945945946
+Ruvuma,Songea Rural,Wino,1422.6823529411765
+Ruvuma,Songea Urban,Bombambili,1087.0
+Ruvuma,Songea Urban,Lizaboni,1057.3333333333333
+Ruvuma,Songea Urban,Matarawe,1034.0
+Ruvuma,Songea Urban,Matogoro,1180.8076923076924
+Ruvuma,Songea Urban,Mfaranyaki,1063.5
+Ruvuma,Songea Urban,Mletele,1119.75
+Ruvuma,Songea Urban,Mshangano,1084.6
+Ruvuma,Songea Urban,Ruhuwiko,1030.111111111111
+Ruvuma,Songea Urban,Ruvuma,1061.25
+Ruvuma,Songea Urban,Subira,1062.6666666666667
+Ruvuma,Tunduru,Kalulu,726.7058823529412
+Ruvuma,Tunduru,Kidodoma,596.9629629629629
+Ruvuma,Tunduru,Ligoma,475.0
+Ruvuma,Tunduru,Ligunga,608.25
+Ruvuma,Tunduru,Lukumbule,337.90909090909093
+Ruvuma,Tunduru,Marumba,680.2727272727273
+Ruvuma,Tunduru,Matemanga,668.1428571428571
+Ruvuma,Tunduru,Mbesa,519.6086956521739
+Ruvuma,Tunduru,Mchesi,369.2916666666667
+Ruvuma,Tunduru,Mchoteka,547.3571428571429
+Ruvuma,Tunduru,Milingoti Magharibi,592.6666666666666
+Ruvuma,Tunduru,Milingoti Mashariki,545.8
+Ruvuma,Tunduru,Mindu,425.3333333333333
+Ruvuma,Tunduru,Misechela,449.9375
+Ruvuma,Tunduru,Mtina,515.5217391304348
+Ruvuma,Tunduru,Muhuwesi,451.2692307692308
+Ruvuma,Tunduru,Nakapanya,349.6
+Ruvuma,Tunduru,Nalasi,532.7647058823529
+Ruvuma,Tunduru,Namasakata,479.2962962962963
+Ruvuma,Tunduru,Nampungu,621.8333333333334
+Ruvuma,Tunduru,Namwinyu,797.4705882352941
+Ruvuma,Tunduru,Nandembo,555.5555555555555
+Ruvuma,Tunduru,Tuwemacho,572.7272727272727
+Shinyanga,Bariadi,Bariadi,
+Shinyanga,Bariadi,Bumera,
+Shinyanga,Bariadi,Bunamhala,1335.8333333333333
+Shinyanga,Bariadi,Chinamili,
+Shinyanga,Bariadi,Dutwa,
+Shinyanga,Bariadi,Gamboshi,
+Shinyanga,Bariadi,Ikungulyabashashi,
+Shinyanga,Bariadi,Kasoli,
+Shinyanga,Bariadi,Kinang'weli,
+Shinyanga,Bariadi,Lagangabilili,1348.4
+Shinyanga,Bariadi,Lugulu,
+Shinyanga,Bariadi,Mbita,
+Shinyanga,Bariadi,Mhango,
+Shinyanga,Bariadi,Mhunze,1376.0149253731342
+Shinyanga,Bariadi,Mwadobana,
+Shinyanga,Bariadi,Mwamapalala,
+Shinyanga,Bariadi,Mwaswale,
+Shinyanga,Bariadi,Mwaubingi,
+Shinyanga,Bariadi,Nkololo,
+Shinyanga,Bariadi,Nkoma,1322.88
+Shinyanga,Bariadi,Nyakabindi,
+Shinyanga,Bariadi,Sagata,
+Shinyanga,Bariadi,Sakwe,
+Shinyanga,Bariadi,Sapiwi,
+Shinyanga,Bariadi,Somanda,
+Shinyanga,Bariadi,Zagayu,
+Shinyanga,Bukombe,Budakwa,
+Shinyanga,Bukombe,Bukombe,
+Shinyanga,Bukombe,Ikunguigazi,
+Shinyanga,Bukombe,Ilolangulu,
+Shinyanga,Bukombe,Iponya,
+Shinyanga,Bukombe,Iyogela,
+Shinyanga,Bukombe,Lugunga,
+Shinyanga,Bukombe,Masumbwe,
+Shinyanga,Bukombe,Mbogwe,
+Shinyanga,Bukombe,Nyasato,
+Shinyanga,Bukombe,Runzewe,
+Shinyanga,Bukombe,Ushirika,
+Shinyanga,Bukombe,Ushirombo,
+Shinyanga,Bukombe,Uyovu,
+Shinyanga,Kahama,Bugarama,
+Shinyanga,Kahama,Bulige,
+Shinyanga,Kahama,Bulungwa,
+Shinyanga,Kahama,Busangi,
+Shinyanga,Kahama,Chambo,
+Shinyanga,Kahama,Chela,
+Shinyanga,Kahama,Chona,
+Shinyanga,Kahama,Idahina,
+Shinyanga,Kahama,Igwamanoni,
+Shinyanga,Kahama,Isagehe,
+Shinyanga,Kahama,Isaka,
+Shinyanga,Kahama,Jana,
+Shinyanga,Kahama,Kahama Urban,
+Shinyanga,Kahama,Kilago,
+Shinyanga,Kahama,Kinaga,
+Shinyanga,Kahama,Kinamapula,
+Shinyanga,Kahama,Kisuke,
+Shinyanga,Kahama,Lunguya,
+Shinyanga,Kahama,Malunga,
+Shinyanga,Kahama,Mhongolo,
+Shinyanga,Kahama,Mpunze,
+Shinyanga,Kahama,Mwendakulima,
+Shinyanga,Kahama,Ngaya,
+Shinyanga,Kahama,Ngongwa,
+Shinyanga,Kahama,Ntobo,
+Shinyanga,Kahama,Nyandekwa,
+Shinyanga,Kahama,Segese,
+Shinyanga,Kahama,Ukune,
+Shinyanga,Kahama,Ulowa,
+Shinyanga,Kahama,Ushetu,
+Shinyanga,Kahama,Uyogo,
+Shinyanga,Kahama,Zongomera,
+Shinyanga,Kishapu,Bubiki,
+Shinyanga,Kishapu,Bugoro,
+Shinyanga,Kishapu,Bunambiu,
+Shinyanga,Kishapu,Itilima,
+Shinyanga,Kishapu,Kiloleli,
+Shinyanga,Kishapu,Kishapu,
+Shinyanga,Kishapu,Lagana,
+Shinyanga,Kishapu,Masanga,
+Shinyanga,Kishapu,Mondo,
+Shinyanga,Kishapu,Mwadui Lohumbo,
+Shinyanga,Kishapu,Mwakipoya,
+Shinyanga,Kishapu,Mwamalasa,
+Shinyanga,Kishapu,Mwamashele,
+Shinyanga,Kishapu,Ngofila,
+Shinyanga,Kishapu,Shagihilu,
+Shinyanga,Kishapu,Songwa,
+Shinyanga,Kishapu,Talaga,
+Shinyanga,Kishapu,Uchunga,
+Shinyanga,Kishapu,Ukenyenge,
+Shinyanga,Maswa,Badi,
+Shinyanga,Maswa,Buchambi,
+Shinyanga,Maswa,Budekwa,
+Shinyanga,Maswa,Busilili,
+Shinyanga,Maswa,Dakama,
+Shinyanga,Maswa,Ipililo,
+Shinyanga,Maswa,Isanga,
+Shinyanga,Maswa,Kadoto,
+Shinyanga,Maswa,Kulimi,
+Shinyanga,Maswa,Lalago,
+Shinyanga,Maswa,Malampaka,
+Shinyanga,Maswa,Masela,
+Shinyanga,Maswa,Mpindo,
+Shinyanga,Maswa,Ngulinguli,
+Shinyanga,Maswa,Nyabubinza,
+Shinyanga,Maswa,Nyalikungu,
+Shinyanga,Maswa,Shishiyu,
+Shinyanga,Maswa,Sukuma,
+Shinyanga,Meatu,Bukundi,
+Shinyanga,Meatu,Imalaseko,
+Shinyanga,Meatu,Itinje,
+Shinyanga,Meatu,Kisesa,
+Shinyanga,Meatu,Lingeka,
+Shinyanga,Meatu,Lubiga,
+Shinyanga,Meatu,Mwabuma,
+Shinyanga,Meatu,Mwabusalu,
+Shinyanga,Meatu,Mwabuzo,
+Shinyanga,Meatu,Mwamalole,
+Shinyanga,Meatu,Mwamanongu,
+Shinyanga,Meatu,Mwamishali,
+Shinyanga,Meatu,Mwandoya,
+Shinyanga,Meatu,Mwanhunzi,
+Shinyanga,Meatu,Mwanjoro,
+Shinyanga,Meatu,Ng'hoboko,
+Shinyanga,Meatu,Nkoma,
+Shinyanga,Meatu,Sakasaka,
+Shinyanga,Shinyanga Rural,Didia,
+Shinyanga,Shinyanga Rural,Ilola,
+Shinyanga,Shinyanga Rural,Imesela,
+Shinyanga,Shinyanga Rural,Iselamagazi,
+Shinyanga,Shinyanga Rural,Itwangi,
+Shinyanga,Shinyanga Rural,Lyabukande,
+Shinyanga,Shinyanga Rural,Mwakitolyo,
+Shinyanga,Shinyanga Rural,Mwamala,
+Shinyanga,Shinyanga Rural,Mwantini,
+Shinyanga,Shinyanga Rural,Pandagichiza,
+Shinyanga,Shinyanga Rural,Salawe,
+Shinyanga,Shinyanga Rural,Samuye,
+Shinyanga,Shinyanga Rural,Solwa,
+Shinyanga,Shinyanga Rural,Tinde,
+Shinyanga,Shinyanga Rural,Usanda,
+Shinyanga,Shinyanga Rural,Usule,
+Shinyanga,Shinyanga Urban,Chibe,
+Shinyanga,Shinyanga Urban,Ibadakuli,
+Shinyanga,Shinyanga Urban,Kitangili,
+Shinyanga,Shinyanga Urban,Kizumbi,
+Shinyanga,Shinyanga Urban,Kolandoto,
+Shinyanga,Shinyanga Urban,Mwamalili,
+Shinyanga,Shinyanga Urban,Mwawaza,
+Shinyanga,Shinyanga Urban,Ngokolo,
+Singida,Iramba,Gumanga,1407.909090909091
+Singida,Iramba,Ibaga,1198.7142857142858
+Singida,Iramba,Iguguno,1398.3513513513512
+Singida,Iramba,Ilunda,1519.825
+Singida,Iramba,Kaselya,1418.138888888889
+Singida,Iramba,Kasiriri,1678.0
+Singida,Iramba,Kidaru,1084.8
+Singida,Iramba,Kinampanda,1508.0
+Singida,Iramba,Kinyagiri,1365.923076923077
+Singida,Iramba,Kiomboi,1531.34375
+Singida,Iramba,Kyengege,1480.9333333333334
+Singida,Iramba,Mbelekese,1413.2608695652175
+Singida,Iramba,Mdago,1416.6666666666667
+Singida,Iramba,Mpambala,1089.0
+Singida,Iramba,Msingi,1302.090909090909
+Singida,Iramba,Mtekente,1150.5
+Singida,Iramba,Mtoa,1141.3125
+Singida,Iramba,Mwanga,1565.53125
+Singida,Iramba,Mwangaza,1329.6666666666667
+Singida,Iramba,Nduguti,1534.840909090909
+Singida,Iramba,Nkinto,1529.1363636363637
+Singida,Iramba,Ntwike,1086.0833333333333
+Singida,Iramba,Shelui,1090.611111111111
+Singida,Iramba,Tulya,1078.0
+Singida,Iramba,Ulemo,1440.2307692307693
+Singida,Iramba,Urughu,1134.3333333333333
+Singida,Manyoni,Aghondi,1314.3333333333333
+Singida,Manyoni,Chikola,1226.5
+Singida,Manyoni,Chikuyu,858.4545454545455
+Singida,Manyoni,Heka Azimio,1231.5
+Singida,Manyoni,Idodyandole,1277.5
+Singida,Manyoni,Ipande,1324.142857142857
+Singida,Manyoni,Isseke,1120.7777777777778
+Singida,Manyoni,Itigi,1330.5217391304348
+Singida,Manyoni,Kilimatinde,1100.3142857142857
+Singida,Manyoni,Kintinku,851.5555555555555
+Singida,Manyoni,Majiri,838.6923076923077
+Singida,Manyoni,Makanda,903.0
+Singida,Manyoni,Makuru,1255.9166666666667
+Singida,Manyoni,Manyoni,1284.5875
+Singida,Manyoni,Maweni,854.9285714285714
+Singida,Manyoni,Mgandu,1511.8620689655172
+Singida,Manyoni,Nkoko,1168.1666666666667
+Singida,Manyoni,Rungwa,1378.7777777777778
+Singida,Manyoni,Sanjaranda,1323.5333333333333
+Singida,Manyoni,Sanza,891.3636363636364
+Singida,Manyoni,Sasajila,884.7894736842105
+Singida,Singida Rural,Dung'unyi,1550.107142857143
+Singida,Singida Rural,Ihanja,1506.2089552238806
+Singida,Singida Rural,Ikhawoda,1617.076923076923
+Singida,Singida Rural,Ikungu,1485.1
+Singida,Singida Rural,Ilongero,1593.3492063492063
+Singida,Singida Rural,Irisya,1452.4
+Singida,Singida Rural,Issuwa,1386.4074074074074
+Singida,Singida Rural,Kinyeto,1574.9782608695652
+Singida,Singida Rural,Maghojea,1620.774193548387
+Singida,Singida Rural,Makuro,1597.128205128205
+Singida,Singida Rural,Mang'onyi,1311.5625
+Singida,Singida Rural,Merya,1606.3684210526317
+Singida,Singida Rural,Mgori,1325.3823529411766
+Singida,Singida Rural,Mgungira,1035.142857142857
+Singida,Singida Rural,Minyughe,1331.2
+Singida,Singida Rural,Misughaa,1241.076923076923
+Singida,Singida Rural,Msisi,1406.3
+Singida,Singida Rural,Mtinko,1555.75
+Singida,Singida Rural,Mudida,1545.2916666666667
+Singida,Singida Rural,Munga'a,1603.984375
+Singida,Singida Rural,Mwaru,1196.3333333333333
+Singida,Singida Rural,Naintiri,1404.7142857142858
+Singida,Singida Rural,Ngimu,1590.7777777777778
+Singida,Singida Rural,Ntuntu,1565.7954545454545
+Singida,Singida Rural,Puma,1555.0227272727273
+Singida,Singida Rural,Sepuko,1479.3658536585365
+Singida,Singida Rural,Siuyu,1499.1923076923076
+Singida,Singida Rural,Ughandi,1482.5142857142857
+Singida,Singida Urban,Mandewa,1479.3142857142857
+Singida,Singida Urban,Mtamaa,1444.5263157894738
+Singida,Singida Urban,Mtipa,1518.6
+Singida,Singida Urban,Mungumaji,1534.0
+Singida,Singida Urban,Mwankoko,1472.46875
+Singida,Singida Urban,Unyambwa,1541.3478260869565
+Singida,Singida Urban,Unyamikumbi,1605.5428571428572
+Tabora,Igunga,Bukoko,
+Tabora,Igunga,Chabutwa,
+Tabora,Igunga,Choma,
+Tabora,Igunga,Igoweko,
+Tabora,Igunga,Igunga,
+Tabora,Igunga,Igurubi,
+Tabora,Igunga,Isakamaliwa,
+Tabora,Igunga,Itumba,
+Tabora,Igunga,Itunduru,
+Tabora,Igunga,Kining'inila,
+Tabora,Igunga,Kinungu,
+Tabora,Igunga,Mbutu,
+Tabora,Igunga,Mwamashiga,
+Tabora,Igunga,Mwashiku,
+Tabora,Igunga,Mwisi,
+Tabora,Igunga,Nanga,
+Tabora,Igunga,Ndembezi,
+Tabora,Igunga,Ngulu,
+Tabora,Igunga,Nguvu Moja,
+Tabora,Igunga,Nkinga,
+Tabora,Igunga,Ntobo,
+Tabora,Igunga,Nyandekwa,
+Tabora,Igunga,Simbo,
+Tabora,Igunga,Sungwisi,
+Tabora,Igunga,Ziba,
+Tabora,Nzega,Budushi,
+Tabora,Nzega,Bukene,
+Tabora,Nzega,Igusule,
+Tabora,Nzega,Ijanija,
+Tabora,Nzega,Ikindwa,
+Tabora,Nzega,Isagenhe,
+Tabora,Nzega,Isanzu,
+Tabora,Nzega,Itilo,
+Tabora,Nzega,Itobo,
+Tabora,Nzega,Kahamanhalaga,
+Tabora,Nzega,Karitu,
+Tabora,Nzega,Kasela,
+Tabora,Nzega,Lusu,
+Tabora,Nzega,Magengati,
+Tabora,Nzega,Mambali,
+Tabora,Nzega,Mbogwe,
+Tabora,Nzega,Miguwa,
+Tabora,Nzega,Mihugi,
+Tabora,Nzega,Mizibaziba,
+Tabora,Nzega,Mlambo-Itobo,
+Tabora,Nzega,Mogwa,
+Tabora,Nzega,Mwakanshashala,
+Tabora,Nzega,Mwamala,
+Tabora,Nzega,Mwangoye,
+Tabora,Nzega,Nata,
+Tabora,Nzega,Ndala,
+Tabora,Nzega,Nkiniziwa,
+Tabora,Nzega,Nzega Urban,
+Tabora,Nzega,Nzega ndogo,
+Tabora,Nzega,Puge,
+Tabora,Nzega,Semembela,
+Tabora,Nzega,Shigamba,
+Tabora,Nzega,Sigili,
+Tabora,Nzega,Tongi,
+Tabora,Nzega,Uduka,
+Tabora,Nzega,Utwigu,
+Tabora,Nzega,Wela,
+Tabora,Sikonge,Chabutwa,
+Tabora,Sikonge,Igigwa,
+Tabora,Sikonge,Ipole,
+Tabora,Sikonge,Kiloleli,
+Tabora,Sikonge,Kiloli,
+Tabora,Sikonge,Kipanga,
+Tabora,Sikonge,Kipili,
+Tabora,Sikonge,Kitunda,
+Tabora,Sikonge,Pangale,
+Tabora,Sikonge,Sikonge,
+Tabora,Sikonge,Tutuo,
+Tabora,Tabora Urban,Chemchem,
+Tabora,Tabora Urban,Gongoni,
+Tabora,Tabora Urban,Ipuli,
+Tabora,Tabora Urban,Isevya,
+Tabora,Tabora Urban,Itetemia,
+Tabora,Tabora Urban,Itonjanda,
+Tabora,Tabora Urban,Kakola,
+Tabora,Tabora Urban,Kalunde,
+Tabora,Tabora Urban,Kanyenye,
+Tabora,Tabora Urban,Kiloleni,
+Tabora,Tabora Urban,Kitete,
+Tabora,Tabora Urban,Malolo,
+Tabora,Tabora Urban,Mbugani,
+Tabora,Tabora Urban,Misha,
+Tabora,Tabora Urban,Ndevelwa,
+Tabora,Tabora Urban,Ng'ambo,
+Tabora,Tabora Urban,Tambukareli,
+Tabora,Tabora Urban,Tumbi,
+Tabora,Tabora Urban,Uyui,
+Tabora,Urambo,Ichemba,
+Tabora,Urambo,Igalala,
+Tabora,Urambo,Igombe Mkulu,
+Tabora,Urambo,Imalamakoye,
+Tabora,Urambo,Itundu,
+Tabora,Urambo,Kaliua,
+Tabora,Urambo,Kanindo,
+Tabora,Urambo,Kapilula,
+Tabora,Urambo,Kashishi,
+Tabora,Urambo,Kazaroho,
+Tabora,Urambo,Kiloleni,
+Tabora,Urambo,Milambo,
+Tabora,Urambo,Muungano,
+Tabora,Urambo,Mwongozo,
+Tabora,Urambo,Songambele,
+Tabora,Urambo,Ugunga,
+Tabora,Urambo,Ukondamoyo,
+Tabora,Urambo,Ukumbisiganga,
+Tabora,Urambo,Urambo,
+Tabora,Urambo,Ushokola,
+Tabora,Urambo,Usinge,
+Tabora,Urambo,Usisya,
+Tabora,Urambo,Ussoke,
+Tabora,Urambo,Uyowa,
+Tabora,Urambo,Uyumbu,
+Tabora,Urambo,Vumilia,
+Tabora,Uyui,Bukumbi,
+Tabora,Uyui,Goweko,
+Tabora,Uyui,Ibiri,
+Tabora,Uyui,Igalula,
+Tabora,Uyui,Ikongolo,
+Tabora,Uyui,Ilolangulu,
+Tabora,Uyui,Isikizya,
+Tabora,Uyui,Kizengi,
+Tabora,Uyui,Loya,
+Tabora,Uyui,Lutende,
+Tabora,Uyui,Mabama,
+Tabora,Uyui,Magiri,
+Tabora,Uyui,Ndono,
+Tabora,Uyui,Shitage,
+Tabora,Uyui,Ufuluma,
+Tabora,Uyui,Upuge,
+Tabora,Uyui,Usagali,
+Tanga,Handeni,Chanika,717.7058823529412
+Tanga,Handeni,Kabuku,372.375
+Tanga,Handeni,Kiva,536.7777777777778
+Tanga,Handeni,Komkonga,352.3
+Tanga,Handeni,Kwaluguru,549.0
+Tanga,Handeni,Kwamatuku,337.57142857142856
+Tanga,Handeni,Kwamkonje,567.3333333333334
+Tanga,Handeni,Kwamsisi,181.125
+Tanga,Handeni,Kwasunga,283.5
+Tanga,Handeni,Kwedizinga,307.0
+Tanga,Handeni,Mazingara,461.3076923076923
+Tanga,Handeni,Mgambo,341.51063829787233
+Tanga,Handeni,Misima,557.7142857142857
+Tanga,Handeni,Mkata,376.75
+Tanga,Handeni,Ndolwa,390.2631578947368
+Tanga,Handeni,Segera,286.7
+Tanga,Handeni,Sindeni,483.3076923076923
+Tanga,Handeni,Vibaoni,639.2777777777778
+Tanga,Kilindi,Jaila,
+Tanga,Kilindi,Kikunde,
+Tanga,Kilindi,Kimbe,
+Tanga,Kilindi,Kisangasa,
+Tanga,Kilindi,Kwediboma,
+Tanga,Kilindi,Masagalu,
+Tanga,Kilindi,Mkindi,
+Tanga,Kilindi,Msanja,
+Tanga,Kilindi,Mvungwe,
+Tanga,Kilindi,Negero,
+Tanga,Kilindi,Pangwi,
+Tanga,Kilindi,Saunyi,
+Tanga,Korogwe,Bungu,1125.59375
+Tanga,Korogwe,Chekelei,389.2857142857143
+Tanga,Korogwe,Dindira,937.1428571428571
+Tanga,Korogwe,Kerenge,303.6190476190476
+Tanga,Korogwe,Kizara,458.1333333333333
+Tanga,Korogwe,Korogwe,
+Tanga,Korogwe,Kwagunda,291.125
+Tanga,Korogwe,Kwamndolwa,
+Tanga,Korogwe,Lutindi,1085.5
+Tanga,Korogwe,Magoma,357.3673469387755
+Tanga,Korogwe,Makuyuni,360.969696969697
+Tanga,Korogwe,Mashewa,367.6363636363636
+Tanga,Korogwe,Mazinde,559.32
+Tanga,Korogwe,Mkalamo,504.89285714285717
+Tanga,Korogwe,Mkomazi,428.1875
+Tanga,Korogwe,Mnyuzi,256.3666666666667
+Tanga,Korogwe,Mombo,406.6
+Tanga,Korogwe,Msambiazi,
+Tanga,Korogwe,Ngombezi,
+Tanga,Korogwe,Vugiri,532.0
+Tanga,Lushoto,Bumbuli,1248.0
+Tanga,Lushoto,Funta,1239.157894736842
+Tanga,Lushoto,Gare,1371.2777777777778
+Tanga,Lushoto,Hemtoye,1596.0
+Tanga,Lushoto,Kwai,1663.0
+Tanga,Lushoto,Lunguza,390.375
+Tanga,Lushoto,Lushoto,1499.9545454545455
+Tanga,Lushoto,Malibwi,1443.8333333333333
+Tanga,Lushoto,Malindi,1756.8640776699028
+Tanga,Lushoto,Mamba,1439.6818181818182
+Tanga,Lushoto,Mbaramo,1193.2142857142858
+Tanga,Lushoto,Mbuzii,1278.2666666666667
+Tanga,Lushoto,Mgwashi,1422.4666666666667
+Tanga,Lushoto,Mlalo,1378.5714285714287
+Tanga,Lushoto,Mlola,1242.7333333333333
+Tanga,Lushoto,Mnazi,839.7941176470588
+Tanga,Lushoto,Mtae,1656.0
+Tanga,Lushoto,Mwangoi,1374.75
+Tanga,Lushoto,Ngwelo,1190.0
+Tanga,Lushoto,Rangwi,1846.1666666666667
+Tanga,Lushoto,Shume,1783.8983050847457
+Tanga,Lushoto,Soni,1246.8695652173913
+Tanga,Lushoto,Sunga,1738.8
+Tanga,Lushoto,Tamota,1161.5217391304348
+Tanga,Lushoto,Ubiri,1287.75
+Tanga,Lushoto,Vuga,1325.642857142857
+Tanga,Mkinga,Daluni,
+Tanga,Mkinga,Duga,
+Tanga,Mkinga,Gombero,
+Tanga,Mkinga,Kwale,
+Tanga,Mkinga,Manza,
+Tanga,Mkinga,Maramba,
+Tanga,Mkinga,Mhinduro,
+Tanga,Mkinga,Mkinga,
+Tanga,Mkinga,Moa,
+Tanga,Mkinga,Mtimbwani,
+Tanga,Muheza,Bwembera,192.16666666666666
+Tanga,Muheza,Kicheba,185.82758620689654
+Tanga,Muheza,Kigombe,-17.82758620689655
+Tanga,Muheza,Kilulu,197.9
+Tanga,Muheza,Kisiwani,923.7777777777778
+Tanga,Muheza,Kwafungo,205.23076923076923
+Tanga,Muheza,Lusanga,190.25
+Tanga,Muheza,Magila,179.64705882352942
+Tanga,Muheza,Magoroto,610.0
+Tanga,Muheza,Majengo,176.0
+Tanga,Muheza,Masuguru,185.25
+Tanga,Muheza,Mbaramo,175.0
+Tanga,Muheza,Misalai,1001.6666666666666
+Tanga,Muheza,Misozwe,185.47058823529412
+Tanga,Muheza,Mkuzi,188.41666666666666
+Tanga,Muheza,Mtindiro,174.55555555555554
+Tanga,Muheza,Ngomeni,89.6086956521739
+Tanga,Muheza,Nkumba,194.15555555555557
+Tanga,Muheza,Pande,143.0
+Tanga,Muheza,Potwe,262.42857142857144
+Tanga,Muheza,Songa,195.77777777777777
+Tanga,Muheza,Tingeni,183.42857142857142
+Tanga,Muheza,Zirai,162.28571428571428
+Tanga,Pangani,Bushiri,63.25
+Tanga,Pangani,Bweni,-9.555555555555555
+Tanga,Pangani,Kimang'a,14.818181818181818
+Tanga,Pangani,Kipumbwi,-1.35
+Tanga,Pangani,Madanga,46.96153846153846
+Tanga,Pangani,Mikunguni,46.5
+Tanga,Pangani,Mkalamo,67.27906976744185
+Tanga,Pangani,Mkwaja,-12.11111111111111
+Tanga,Pangani,Mwera,46.473684210526315
+Tanga,Pangani,Pangani Magharibi,-16.75
+Tanga,Pangani,Pangani Mashariki,-14.8125
+Tanga,Pangani,Tungamaa,20.40625
+Tanga,Pangani,Ubangaa,53.1
+Tanga,Tanga,Chongoleani,19.933333333333334
+Tanga,Tanga,Kiomoni,125.0
+Tanga,Tanga,Mabokweni,77.76
+Tanga,Tanga,Marungu,49.5
+Tanga,Tanga,Maweni,56.0
+Tanga,Tanga,Mzizima,53.53333333333333
+Tanga,Tanga,Pongwe,98.5
+Tanga,Tanga,Tongoni,13.631578947368421

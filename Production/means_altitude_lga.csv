@@ -1,0 +1,126 @@
+region,lga,gps_height_imputed_lga
+Arusha,Arusha Rural,1429.4480830670927
+Arusha,Arusha Urban,1349.1746031746031
+Arusha,Karatu,1472.0828220858896
+Arusha,Longido,1472.3354838709677
+Arusha,Meru,1302.9653121902875
+Arusha,Monduli,1155.3280423280423
+Arusha,Ngorongoro,1740.2686567164178
+Dar es Salaam,Ilala,42.72525252525252
+Dar es Salaam,Kinondoni,68.60215053763442
+Dar es Salaam,Temeke,-11.630841121495328
+Dodoma,Bahi,
+Dodoma,Chamwino,
+Dodoma,Dodoma Urban,
+Dodoma,Kondoa,
+Dodoma,Kongwa,
+Dodoma,Mpwapwa,
+Iringa,Iringa Rural,1325.4958791208792
+Iringa,Kilolo,1561.5329512893982
+Iringa,Ludewa,1516.8581560283687
+Iringa,Makete,2050.3396825396826
+Iringa,Mufindi,1731.4692307692308
+Iringa,Njombe,1769.3711546144627
+Kagera,Biharamulo,
+Kagera,Bukoba Rural,
+Kagera,Bukoba Urban,
+Kagera,Chato,
+Kagera,Karagwe,
+Kagera,Misenyi,
+Kagera,Muleba,
+Kagera,Ngara,
+Kigoma,Kasulu,1322.3915950334288
+Kigoma,Kibondo,1331.6441647597253
+Kigoma,Kigoma Rural,1058.7475728155339
+Kigoma,Kigoma Urban,824.4225352112676
+Kilimanjaro,Hai,1222.3504
+Kilimanjaro,Moshi Rural,1175.68345323741
+Kilimanjaro,Moshi Urban,821.8354430379746
+Kilimanjaro,Mwanga,1075.8805394990366
+Kilimanjaro,Rombo,1413.3989898989898
+Kilimanjaro,Same,1025.9464082098061
+Kilimanjaro,Siha,1322.0138248847927
+Lindi,Kilwa,71.3188775510204
+Lindi,Lindi Rural,110.70052083333333
+Lindi,Lindi Urban,-4.0
+Lindi,Liwale,435.81168831168833
+Lindi,Nachingwea,349.14
+Lindi,Ruangwa,298.46048109965636
+Manyara,Babati,1401.0939334637965
+Manyara,Hanang,1613.3722627737227
+Manyara,Kiteto,1336.3678756476684
+Manyara,Mbulu,1792.5791245791245
+Manyara,Simanjiro,1003.711038961039
+Mara,Bunda,1244.3561643835617
+Mara,Musoma Rural,1275.0025252525252
+Mara,Rorya,1228.7095238095237
+Mara,Serengeti,1420.56843575419
+Mara,Tarime,1514.7129186602872
+Mbeya,Chunya,
+Mbeya,Ileje,
+Mbeya,Kyela,
+Mbeya,Mbarali,
+Mbeya,Mbeya Rural,
+Mbeya,Mbozi,
+Mbeya,Rungwe,
+Morogoro,Kilombero,275.8196037539103
+Morogoro,Kilosa,610.7541176470588
+Morogoro,Morogoro Rural,273.5393474088292
+Morogoro,Morogoro Urban,562.5625
+Morogoro,Mvomero,438.36661698956783
+Morogoro,Ulanga,376.29624060150377
+Mtwara,Masasi,329.01325757575756
+Mtwara,Mtwara Rural,72.29928741092637
+Mtwara,Mtwara Urban,-19.129032258064516
+Mtwara,Nanyumbu,314.4367088607595
+Mtwara,Newala,523.4978354978355
+Mtwara,Tandahimba,278.71804511278197
+Mwanza,Geita,
+Mwanza,Ilemela,1230.076923076923
+Mwanza,Kwimba,
+Mwanza,Magu,
+Mwanza,Missungwi,
+Mwanza,Nyamagana,
+Mwanza,Sengerema,
+Mwanza,Ukerewe,1197.3225806451612
+Pwani,Bagamoyo,118.90182186234817
+Pwani,Kibaha,82.85767790262172
+Pwani,Kisarawe,195.29596412556054
+Pwani,Mafia,-23.553030303030305
+Pwani,Mkuranga,35.962093862815884
+Pwani,Rufiji,39.43176733780761
+Rukwa,Mpanda,1145.4830633284241
+Rukwa,Nkasi,1438.392523364486
+Rukwa,Sumbawanga Rural,1547.3320537428024
+Rukwa,Sumbawanga Urban,1887.1722222222222
+Ruvuma,Mbinga,1001.8386666666667
+Ruvuma,Namtumbo,872.8515850144092
+Ruvuma,Songea Rural,1019.5974025974026
+Ruvuma,Songea Urban,1100.675
+Ruvuma,Tunduru,553.4326241134752
+Shinyanga,Bariadi,1350.9817073170732
+Shinyanga,Bukombe,
+Shinyanga,Kahama,
+Shinyanga,Kishapu,
+Shinyanga,Maswa,
+Shinyanga,Meatu,
+Shinyanga,Shinyanga Rural,
+Shinyanga,Shinyanga Urban,
+Singida,Iramba,1371.0036764705883
+Singida,Manyoni,1166.4615384615386
+Singida,Singida Rural,1519.1195979899499
+Singida,Singida Urban,1516.2542372881355
+Tabora,Igunga,
+Tabora,Nzega,
+Tabora,Sikonge,
+Tabora,Tabora Urban,
+Tabora,Urambo,
+Tabora,Uyui,
+Tanga,Handeni,427.59842519685037
+Tanga,Kilindi,
+Tanga,Korogwe,489.55945945945945
+Tanga,Lushoto,1439.0273775216137
+Tanga,Mkinga,
+Tanga,Muheza,212.07185628742516
+Tanga,Pangani,23.06930693069307
+Tanga,Tanga,57.0

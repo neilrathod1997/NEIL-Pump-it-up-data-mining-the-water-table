@@ -1,0 +1,11 @@
+Unnamed: 0,public_meeting,management_group,imputed_permit_mg
+0,False,commercial,True
+1,False,other,True
+2,False,parastatal,False
+3,False,unknown,True
+4,False,user-group,False
+5,True,commercial,True
+6,True,other,True
+7,True,parastatal,True
+8,True,unknown,True
+9,True,user-group,True
