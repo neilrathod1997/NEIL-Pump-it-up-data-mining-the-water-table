@@ -18,7 +18,7 @@ This repo contains my EDA, data cleaning, feature engineering, modelling work an
 
 <h2>Model Deployment files</h2>
 
-[Model Deployment Using Flask](https://github.com/neilrathod1997/NEIL-Pump-it-up-data-mining-the-water-table/tree/master/Production): Deployment of best performing  model using flask app
+[Model Deployment](https://github.com/neilrathod1997/NEIL-Pump-it-up-data-mining-the-water-table/tree/master/Production): Deployment of best performing  model using flask app
 
 COMPETITION RANK
 
